@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math Examples
-date: 2025-03-18
+date: 2026-03-18
 categories: [tutorial, math,star]
 ---
 
