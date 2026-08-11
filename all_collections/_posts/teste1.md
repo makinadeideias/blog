@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Math Examples
+title: teste
 date: 2026-03-18
 categories: [tutorial, math,star]
 ---
