@@ -2,7 +2,7 @@
 layout: post
 title: Math Examples
 date: 2025-03-18
-categories: [tutorial, math]
+categories: [tutorial, math,star]
 ---
 
 # Math Support in Markdown
