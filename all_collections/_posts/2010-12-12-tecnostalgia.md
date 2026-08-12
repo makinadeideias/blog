@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tecnostalgia
-date: 20206-01-09 10:00:00
+date: 2006-01-09 10:00:00
 categories: [livre]
 ---
 
