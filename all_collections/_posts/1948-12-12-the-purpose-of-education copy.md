@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Purpose of Education Copy
-date: 2016-12-30 10:20:00
+title: Jekyll Markdown
+date: 2026-12-30 10:20:00
 categories: [fiction, jekyll,star]
 ---
 
