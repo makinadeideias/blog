@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-date: 2026-08-12 10:18:00
+date: 2026-07-12 10:18:00
 categories: [fiction, jekyll,star]
 ---
 
