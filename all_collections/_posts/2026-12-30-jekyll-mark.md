@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Markdown
+title: Jekyll Mark
 date: 2026-12-30 10:20:00
 categories: [fiction, jekyll,star]
 ---
