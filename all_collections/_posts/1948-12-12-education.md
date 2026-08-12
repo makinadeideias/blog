@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education Copy
+title: Education
 date: 2026-10-12 10:18:00
 categories: [fiction, jekyll,star]
 ---
