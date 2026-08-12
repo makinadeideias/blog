@@ -1,6 +1,6 @@
 ---
 layout: post
-title: teste
+title: jeckyll
 date: 2026-03-18
 categories: [tutorial, math,star]
 ---
