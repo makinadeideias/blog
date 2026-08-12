@@ -2,7 +2,7 @@
 layout: post
 title:  Imperfect
 date: 2007-05-01 10:20:00
-categories: ["Poem", "English"]
+categories: ["poem", "English"]
 ---
 
 
