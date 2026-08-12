@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown copia
+title:  copia
 date: 2026-08-10 10:20:00
 categories: ["jekyll", "Test Post", "first post"]
 ---
