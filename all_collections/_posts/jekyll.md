@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll
+title: Jekyll
 date: 2026-03-18
 categories: [tutorial, math,star]
 ---
