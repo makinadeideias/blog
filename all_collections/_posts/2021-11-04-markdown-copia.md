@@ -1,120 +1,84 @@
 ---
 layout: post
-title:  copia
-date: 2026-08-10 10:20:00
-categories: ["jekyll", "Test Post", "first post"]
+title:  Imperfect
+date: 2007-05-01 10:20:00
+categories: ["poem"]
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-#### Image
 
 Images can be clicked to enlarge :)
 
 ![Dummy Image 1](https://picsum.photos/1366/768)
-![Dummy Image 2](https://picsum.photos/1200/400)
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’ve run all the races
 
-## Header 2
+I’ve lived too many lives
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I’ve been to all those places
 
-### Header 3
+I’ve married too many wives
 
-> This is another blockquote following header 3
+I’ve had all that is fun
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
+I’ve said all known words
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+I’ve shot all those guns
 
-#### Header 4
+I’ve walked all possible roads
 
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
+I’ve read all great books
 
-##### Header 5
+I’ve heard all kind of noise
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+I’ve escaped tons of hooks
 
-###### Header 6
+I’ve spoken on every tune of voice
 
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+I’ve spent all that is money
 
-### There's a horizontal rule below this.
+I’ve bought sex and cars
 
----
+I’ve tried salt and honey
 
-### Here is an unordered list:
+I’ve drunk, I’ve had cigars
 
-- Item foo
-- Item bar
-- Item baz
-- Item zip
+I’ve mined for gold and silver
 
-### And an ordered list:
+I’ve eaten caviar and ham
 
-1.  Item one
-    1.  Item one
-    1.  Item two
-        1.  Item one
-        1.  Item two
-        1.  Item three
-    1.  Item three
-1.  Item four
-1.  Item two
-1.  Item three
-1.  Item four
+I’ve crossed sea and river
 
-### And a nested list:
+I’ve followed tracks and plans
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+I’ve studied all those religions
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
-```
+I’ve sang all Beatles’ songs
 
-```
-The final element.
-```
+I’m lost in a nest of pigeons
+
+Possessions, temptation wrongs
+
+I’ve acquired great experience
+
+I’ve learnt a lot to say
+
+My mind stays in turbulence
+
+The world is in advanced decay
+
+Nor money means nothing indeed
+
+Neither does a crown, golden cap
+
+As matter does not grow seed
+
+The world is a piece of crap
+
+ 
+
+I’ve met all human kind  
+I’ve licked soil and soap  
+‘cause men is deaf and blind  
+Definitely  I’ve lost my hope
+
