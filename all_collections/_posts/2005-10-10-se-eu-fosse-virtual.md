@@ -1,0 +1,26 @@
+---
+layout: post
+title: Se eu fosse virtual
+date: 2003-01-10 10:00:00
+categories: [livre]
+---
+
+
+# Se eu fosse virtual
+_“Chegou o tempo em que ou você é alguém@onde.oque ou você não é ninguém”_
+
+Se pudesse ser uma coisa, uma outra coisa, eu queria ser um software, digital, virtual. Não seria muito exigente. Bastava ser virtual. Se eu assim fosse, eu dominaria as dimensões do tempo e do espaço e viajaria pelo planeta digital e me deliciaria congestionando o tráfego na Trafalgar Square. Literalmente passearia pelos sites literários e num dia de sol  enviaria um e-mail a Castro Alves e num navio  negreiro, navegaríamos por mares nunca dantes navegados em companhia de Camões e Robinson Crusoe. Também por e-mail, convidaria Helena e Capitu para ir à Espanha assistir a uma tourada e mais tarde, em casa de Almodóvar,  descansaríamos numa cama para três.
+
+Nas terras da Rainha, pesquisaria na Enciclopédia e com pontualidade Britânica iria ao chá das cinco com Shakespeare e Sherlock. Convidaria Rimbaud para um bate papo na Gallerie La Fayette e numa sexta à tarde me conectaria com Belo Horizonte, aonde iria ao clube da esquina, tomar um café com bytes em companhia de Milton e Lô Borges.
+
+Ah, se eu fosse virtual! Se eu fosse virtual, teria memória sem limites e poderia guardar tudo do passado e do presente. Então, me presentearia com um álbum dos Mutantes. Seria amigo de Vinícius, de Chico e de Janis Joplin. Com Lennon e McCartney, Pena Branca e Xavantinho, formaria uma banda larga inusitada e tocaríamos juntos em MP3.. Seria virtual, mas com sentimentos e, com Noel e Adoniram, choraria melosas canções de amor numa rádio digital.  Mesclaria Pixinguinha e Marisa Monte em uníssono, cantando Rosa, em poesia não em prosa, para fazer alguém feliz. Se eu fosse virtual, Bach me ensinaria que na música, a nota codifica o som, e eu o explicaria que na informática, o bit codifica a ação.
+
+Se eu fosse virtual e cometesse crimes, Dostoievski seria meu advogado e meus castigos minimizados. Poderia até ser processado, mas por processadores, que me mandariam pra Alcatraz. Lá eu escreveria minhas memórias do cárcere e um postal eletrônico para Marco Polo. Planejaria uma fuga lá para o reino de Khan, a quem eu contaria de minhas andanças pelas terras do sem fim. Depois, criaria um portal de games para jogar Dama com as Camélias e enviaria flores virtuais para Madame Bovary. Digitalizaria o amor, para que minha musa não guardasse de mim apenas impressões digitais e fundaria com Gullar a Academia Brasileira de Bytes. Não seria um Highlander, mas seria imortal.
+
+Se eu fosse virtual, simularia o meu Taj Mahal, onde leria As mil e uma noites em uma só, deitado confortavelmente em minha rede. Iria ao Louvre e admiraria cada píxel da Mona Lisa. Materializaria-me junto ao túmulo de Salvador e o tiraria dali para meu alívio e para a persistência de sua memória. Gravaria em placas homenagens a Sebastião Salgado, Picasso e Caetano constatando que a Guernica é aqui. Aprenderia com Freud sobre Édipo e o Ego num site de psicologia e entenderia que quando os sonhos assumem forma concreta, surge a beleza. Seria menino e correria Brasil afora em busca de pica-paus amarelos ou de uirapurus cantantes. Pularia carniça nas pinceladas de Portinari em companhia de Bardi e me deixaria deslizar nas curvas generosas de Niemeyer. Imprimiria elogios de louvor á brasilidade de Macunaíma e Mário de Andrade me convidaria para um banquete antropofágico em casa de Tarsila, numa mensagem com a Muiraquitã em anexo,.
+
+Se eu fosse virtual, conversaria com Da Vinci em código e compilaria com Einstein  o quântico dos contos . Instalaria-me com Clarice em uma rede e a ouviria explicar sobre como (d)escrever o amor. Entenderia grego, português, inglês e outras línguas porque armazenaria todas as línguas na memória. Entraria nos arquivos do FBI, do DOPS, do SNI e da CIA, de onde hackearia informações sigilosas e as compartilharia com Henfil e Betinho. Criaria uma comunidade alternativa no Orkut e Raul Seixas seria o síndico.  Em uma página de poesia, jogaria conversa fora com Drummond, depois andaríamos por uma rua qualquer de Itabira, e no meio do caminho, nos assentaríamos  em um banco de dados  também qualquer para escrever às crianças.
+
+e eu fosse virtual, programaria com Júlio Verne, dez voltas ao redor da Terra, à velocidade de um download, num Led Zeppelin amarelo. Buscaria no Google, um trabalho para Marx e trocaríamos informações sobre workgroups. Após o almoço, Newton me ofereceria uma maçã e eu o convidaria a ensinar física aos engenheiros da Apple por videoconferência. Se eu fosse virtual, ao envelhecer, não me preocuparia com a forma física e nem sofreria cirurgias plásticas ou lipoaspiração. No máximo, Ivo Pitangui me atenderia em uma clínica de upgrades e eu sendo velho, não morreria. Bastaria um update, um download, e eu me renovaria como a Fênix.Tudo isso seria possível se Deus, o criador, fosse programador e, se no ato de me criar, tivesse feito um software, não um escritor. Ah, se eu fosse virtual.	
+
+![alt](https://picsum.photos/800/300)
