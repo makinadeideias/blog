@@ -5,8 +5,6 @@ date: 2003-01-10 10:00:00
 categories: [livre]
 ---
 
-
-# Se eu fosse virtual
 _“Chegou o tempo em que ou você é alguém@onde.oque ou você não é ninguém”_
 
 Se pudesse ser uma coisa, uma outra coisa, eu queria ser um software, digital, virtual. Não seria muito exigente. Bastava ser virtual. Se eu assim fosse, eu dominaria as dimensões do tempo e do espaço e viajaria pelo planeta digital e me deliciaria congestionando o tráfego na Trafalgar Square. Literalmente passearia pelos sites literários e num dia de sol  enviaria um e-mail a Castro Alves e num navio  negreiro, navegaríamos por mares nunca dantes navegados em companhia de Camões e Robinson Crusoe. Também por e-mail, convidaria Helena e Capitu para ir à Espanha assistir a uma tourada e mais tarde, em casa de Almodóvar,  descansaríamos numa cama para três.
