@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vou ser doutor
+title: O doutor e o taxista
 date: 2025-03-23 10:00:00
 categories: [livre]
 ---
@@ -15,5 +15,6 @@ Em todos os grandes momentos importantes da minha vida sempre lembro do taxista.
 Fiz graduação, especialização e mestrado na UFMG e, agora no doutorado, vou pro CEFET. 
 Bom, parece que ele errou feio!
 A escola me deu tudo. A educação me deu tudo. Inicio esta nova etapa com a certeza de que este caminho tem sido muito difícil, mas tem valido a pena. 
+
 _Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda._ 
  Paulo Freire
