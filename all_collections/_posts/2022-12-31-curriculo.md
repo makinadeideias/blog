@@ -12,5 +12,7 @@
 - O que é currículo?
 - É um papel de perdir emprego.
 - Tá, vou falar pra ele.
-Nenhuma criança nasce preconceituosa, arrogante ou elitista. Elas se tornam.” 
+Nenhuma criança nasce preconceituosa, arrogante ou elitista. Elas se tornam.”   
+
+
 Autor anônimo
