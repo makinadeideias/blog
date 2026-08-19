@@ -2,7 +2,7 @@
 layout: post
 title: O doutor e o taxista
 date: 2025-03-23 10:00:00
-categories: [livre]
+categories: [livre][pensando]
 ---
 
 Nunca planejei ser doutor, nem mestre, nem professor. Mas a vida parece ser um caminho que se constroi apesar da gente. O que aconteceu comigo é que fui me apaixonando pelos estudos e me preparando pra aproveitar o cavalo que passava selado e por isso aqui estou. Essa semana começo a cursar o doutorado em Estudos de Linguagens na área de educação e tecnologia. Deve ser o  último ato formal do meu percurso formativo. Em 4 anos serei doutor. Estarei inserido numa porcentagem mínima da população e isso não deveria ser assim.    
