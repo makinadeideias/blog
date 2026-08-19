@@ -5,7 +5,7 @@ date: 2025-03-23 10:00:00
 categories: [livre]
 ---
 
-Nunca planejei ser doutor, nem mestre, nem professor. Mas a vida parece ser um caminho que se constroi apesar da gente. O que aconteceu comigo é que fui aproveitando o cavalo que passava selado e por isso aqui estou. Essa semana começo a cursar o doutorado em Estudos de Linguagens na área de educação e tecnologia. Deve ser o  último ato formal do meu percurso formativo. Em 4 anos serei doutor. Estarei inserido numa porcentagem mínima da população e isso não deveria ser assim.
+Nunca planejei ser doutor, nem mestre, nem professor. Mas a vida parece ser um caminho que se constroi apesar da gente. O que aconteceu comigo é que fui me preparando pra aproveitar o cavalo que passava selado e por isso aqui estou. Essa semana começo a cursar o doutorado em Estudos de Linguagens na área de educação e tecnologia. Deve ser o  último ato formal do meu percurso formativo. Em 4 anos serei doutor. Estarei inserido numa porcentagem mínima da população e isso não deveria ser assim.
 Entrei na graduação tarde, fiz o mestrado tarde, entro no doutorado tarde, mas pra que pressa? Tarde em relação a quê?
 Analisando a historia da minha familia, esse "tarde" ou esse "atraso" pode ser colocado na conta da desigualdade, pois ter que trabalhar pra ajudar a familia e estudar nao é uma coisa muito fácil de se fazer, ainda mais quando há agentes que tentam nos demover de ideias progressistas, desejos de avançar. 
 Num país com tanta coisa maluca e desigual, consigo chegar a este momento parcialmente lúcido e momentaneamente embasbacado com as loucuras que estamos vivendo. 
