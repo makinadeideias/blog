@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O vento que beija-florlu
+title: O vento que beija-flor
 date: 2022-12-31 10:00:00
 categories: [livre, conto]
 ---
