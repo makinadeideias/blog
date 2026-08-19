@@ -2,7 +2,7 @@
 layout: post
 title: O vento que beija-florlu
 date: 2022-12-31 10:00:00
-categories: [livre][racismo]
+categories: [livre, conto]
 ---
 
  
