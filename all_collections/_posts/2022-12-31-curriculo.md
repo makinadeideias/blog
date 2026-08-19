@@ -1,3 +1,11 @@
+---
+layout: post
+title: Currículo
+date: 2022-12-31 10:00:00
+categories: [livre, conto]
+---
+
+
 “Tô fazendo freela de foto em um buffet infantil. Eis que escuto essa conversa entre dois meninos (acho que) de 6 anos:
 - Você conhece o Dudu (aniversariante) de onde?
 - Não conheço, minha mãe trabalha aqui e ela me traz em todas as festas.
