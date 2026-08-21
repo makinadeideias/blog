@@ -179,7 +179,7 @@ main {
 }
 
 .post-card, article {
-  max-width: 100%;
+  max-width: 70%;
   margin: 0 auto;
 }
 
@@ -192,7 +192,7 @@ article:not(:last-child), .post-card:not(:last-child) {
 /* Limitação de 3 linhas de texto */
 article p, .article-excerpt {
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Força o limite de 3 linhas */
+  -webkit-line-clamp: 2; /* Força o limite de 3 linhas */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
