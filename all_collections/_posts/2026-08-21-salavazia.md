@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sala 404
+title: 404
 date: 2026-08-21 10:18:00
 categories: [livre, poem, pensando]
 ---
 
 
 página em branco  
-sala vazia  
+mente vazia  
 pensamentos vagando no nada
 
