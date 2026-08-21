@@ -4,25 +4,105 @@
   <body>
     <main>
       {% include header.html %} {% include bio.html %}
+      
+      <!-- Filter by Category -->
+      <div class="filter-section">
+        <button class="filter-btn active" data-category="all">All Posts</button>
+        {% assign categories = "" | split: "" %}
+        {% for post in site.posts %}
+          {% for cat in post.categories %}
+            {% unless categories contains cat %}
+              {% assign categories = categories | push: cat %}
+            {% endunless %}
+          {% endfor %}
+        {% endfor %}
+        {% for cat in categories | sort %}
+          <button class="filter-btn" data-category="{{ cat | downcase }}">{{ cat | capitalize }}</button>
+        {% endfor %}
+      </div>
+
       <section class="articles">
         {% for post in site.posts %}
-        <article class="article">
-          <h2 class="article-title">
-            <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
-          </h2>
-          <small class="date">{{post.date | date_to_string}}</small>
+        <article class="article" data-categories="{% for c in post.categories %}{{ c | downcase }} {% endfor %}">
+          <div class="article-header">
+            <h2 class="article-title">
+              <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+            </h2>
+            <small class="date">
+              <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                {{ post.date | date: "%b %d, %Y" }}
+              </time>
+            </small>
+          </div>
+
+          <!-- Post Excerpt -->
+          <p class="article-excerpt">
+            {% if post.excerpt %}
+              {{ post.excerpt | strip_html | truncatewords: 30 }}
+            {% else %}
+              {{ post.content | strip_html | truncatewords: 30 }}
+            {% endif %}
+            <a href="{{site.baseurl}}{{post.url}}" class="read-more">Read more →</a>
+          </p>
+
+          <!-- Categories -->
           <div class="categories">
             {% for c in post.categories %}
-            <a href="#!" data-base-url="{{site.baseurl}}" class="category"
-              >{{c}}</a
-            >
+            <a href="#!" data-category="{{ c | downcase }}" class="category">{{c}}</a>
             {% endfor %}
           </div>
         </article>
-        {%endfor%}
+        {% endfor %}
       </section>
+
+      <!-- Newsletter Box -->
+      {% include newsletter-box.html %}
+
       {% include footer.html %}
     </main>
     {% include category-modal.html%}
+    
+    <script>
+      // Category filtering
+      const filterBtns = document.querySelectorAll('.filter-btn');
+      const articles = document.querySelectorAll('.article');
+
+      filterBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+          const category = this.getAttribute('data-category');
+          
+          // Update active button
+          filterBtns.forEach(b => b.classList.remove('active'));
+          this.classList.add('active');
+
+          // Filter articles
+          articles.forEach(article => {
+            if (category === 'all') {
+              article.style.display = 'block';
+              setTimeout(() => article.classList.add('show'), 10);
+            } else {
+              const categories = article.getAttribute('data-categories').split(' ');
+              if (categories.includes(category)) {
+                article.style.display = 'block';
+                setTimeout(() => article.classList.add('show'), 10);
+              } else {
+                article.classList.remove('show');
+                setTimeout(() => article.style.display = 'none', 300);
+              }
+            }
+          });
+        });
+      });
+
+      // Category tag click filtering
+      document.querySelectorAll('.article .categories .category').forEach(tag => {
+        tag.addEventListener('click', function(e) {
+          e.preventDefault();
+          const category = this.getAttribute('data-category');
+          const btn = Array.from(filterBtns).find(b => b.getAttribute('data-category') === category);
+          if (btn) btn.click();
+        });
+      });
+    </script>
   </body>
 </html>
