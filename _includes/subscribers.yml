@@ -1,0 +1,9 @@
+# Store subscribers as YAML
+---
+subscribers:
+  - email: user1@example.com
+    name: John Doe
+    subscribed_at: 2024-01-15
+  - email: user2@example.com
+    name: Jane Smith
+    subscribed_at: 2024-02-20
