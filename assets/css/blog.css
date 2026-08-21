@@ -29,7 +29,7 @@ header {
   gap: 1rem;
 }
 header .site-title {
-  font-size: 2.8rem;
+  font-size: 1.8rem !important;
   font-weight: bolder;
   line-height: 110%;
   color: var(--white-1);
@@ -265,37 +265,51 @@ main {
 .articles .article .categories .category {
   margin: 0;
   display: inline-block;
-  color: var(--gray-6);
-  background: var(--white-2);
+  color: #000000 !important;
+  background: #ffffff !important;
   border-radius: 12px;
   font-size: 0.65rem;
   padding: 0.3rem 0.6rem;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   white-space: nowrap;
+  border: 1px solid #cccccc;
+  text-decoration: none !important;
 }
 
 .articles .article .categories .category:hover {
-  background: cyan;
-  color: var(--gray-6);
+  background: cyan !important;
+  color: var(--gray-6) !important;
   transform: scale(1.05);
 }
 
 @media (prefers-color-scheme: light) {
   .articles .article .categories .category:hover {
-    background: #1ebaba;
-    color: #ffffff;
+    background: #1ebaba !important;
+    color: #ffffff !important;
   }
 }
 
+[data-theme="light"] .articles .article .categories .category {
+  color: #000000 !important;
+  background: #ffffff !important;
+  border: 1px solid #cccccc;
+}
+
 [data-theme="light"] .articles .article .categories .category:hover {
-  background: #1ebaba;
-  color: #ffffff;
+  background: #1ebaba !important;
+  color: #ffffff !important;
+}
+
+[data-theme="dark"] .articles .article .categories .category {
+  color: #000000 !important;
+  background: #ffffff !important;
+  border: 1px solid #cccccc;
 }
 
 [data-theme="dark"] .articles .article .categories .category:hover {
-  background: cyan;
-  color: var(--gray-6);
+  background: cyan !important;
+  color: var(--gray-6) !important;
 }
 
 /* Remove excerpt styling */
@@ -467,7 +481,7 @@ main {
     align-self: flex-end;
   }
   header .site-title {
-    font-size: 2.2rem;
+    font-size: 1.5rem !important;
   }
   .filter-section {
     justify-content: center;
@@ -476,7 +490,7 @@ main {
 
 @media screen and (max-width: 550px) {
   header .site-title {
-    font-size: 2rem;
+    font-size: 1.3rem !important;
   }
   .articles {
     row-gap: 1.2rem;
@@ -503,7 +517,7 @@ main {
     row-gap: 1.2rem;
   }
   header .site-title {
-    font-size: 1.8rem;
+    font-size: 1.2rem !important;
   }
   .article {
     padding: 1.2rem;
