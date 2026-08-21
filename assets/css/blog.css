@@ -59,7 +59,7 @@ main {
 }
 #text-wrapper a {
   color: cyan;
-  border-bottom: 1px solid cyan;
+  border-bottom: 1px solid rgb(255, 0, 43);
 }
 @media (prefers-color-scheme: light) {
   #text-wrapper a {
