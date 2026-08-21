@@ -36,7 +36,7 @@ header .site-title {
 }
 main {
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 900px;
   padding: 3rem 0;
 }
 
@@ -179,19 +179,24 @@ main {
   border-color: cyan;
 }
 
-/* article section */
+/* article section - Two Column List */
 
 .articles {
   display: grid;
-  row-gap: 2rem;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+  row-gap: 1.5rem;
   margin: 4rem 0 3rem 0;
 }
+
 .articles .article {
-  padding: 2rem;
+  padding: 1.5rem;
   background: var(--gray-3);
-  border-radius: 15px;
+  border-radius: 10px;
   transition: all 0.3s ease-in-out;
   opacity: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .articles .article.show {
@@ -210,19 +215,25 @@ main {
 }
 
 .articles .article .article-header {
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem;
 }
 
-.articles .article .article-title,
+.articles .article .article-title {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
 .articles .article .article-title a {
   color: var(--white-2);
   font-weight: 100;
   font-style: italic;
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   line-height: 130%;
+  display: block;
 }
+
 .articles .article:hover {
-  transform: scale(1.02);
+  transform: translateY(-3px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
@@ -234,66 +245,40 @@ main {
 
 .articles .article .date {
   display: block;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--gray-4);
-  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Article Excerpt */
-
-.article-excerpt {
-  font-size: 0.95rem;
-  line-height: 1.6rem;
-  color: var(--white-2);
-  margin: 1rem 0;
-}
-
-.read-more {
-  color: cyan;
-  border-bottom: 1px solid cyan;
-  font-weight: bold;
-}
-
-@media (prefers-color-scheme: light) {
-  .read-more {
-    color: #1ebaba;
-    border-bottom: 1px solid #1ebaba;
-  }
-}
-
-[data-theme="light"] .read-more {
-  color: #1ebaba;
-  border-bottom: 1px solid #1ebaba;
-}
-
-[data-theme="dark"] .read-more {
-  color: cyan;
-  border-bottom: 1px solid cyan;
-}
+/* Categories - Always Visible */
 
 .articles .article .categories {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 0.5rem;
-  margin-top: 1rem;
+  gap: 0.4rem;
+  margin-top: auto;
+  padding-top: 0.8rem;
 }
+
 .articles .article .categories .category {
   margin: 0;
   display: inline-block;
-  color: var(--gray-5);
+  color: var(--gray-6);
   background: var(--white-2);
-  border-radius: 15px;
-  font-size: 0.7rem;
-  padding: 0.4rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.65rem;
+  padding: 0.3rem 0.6rem;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  white-space: nowrap;
 }
 
 .articles .article .categories .category:hover {
   background: cyan;
   color: var(--gray-6);
+  transform: scale(1.05);
 }
 
 @media (prefers-color-scheme: light) {
@@ -313,6 +298,15 @@ main {
   color: var(--gray-6);
 }
 
+/* Remove excerpt styling */
+.article-excerpt {
+  display: none;
+}
+
+.read-more {
+  display: none;
+}
+
 /* Newsletter Box */
 
 .newsletter-box {
@@ -323,6 +317,7 @@ main {
   border-radius: 12px;
   background: var(--gray-3);
   text-align: center;
+  grid-column: 1 / -1;
 }
 
 .newsletter-box h3 {
@@ -446,6 +441,17 @@ main {
 
 /* media query */
 
+@media screen and (max-width: 900px) {
+  main {
+    max-width: 650px;
+  }
+
+  .articles {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+}
+
 @media screen and (max-width: 750px) {
   body {
     padding: 1.5rem;
@@ -502,7 +508,6 @@ main {
   .article {
     padding: 1.2rem;
   }
-  .articles .article .article-title,
   .articles .article .article-title a {
     font-size: 1rem;
   }
