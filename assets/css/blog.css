@@ -178,10 +178,13 @@ main {
   row-gap: 5em; /* Garante o espaço de 1 linha entre as postagens */
 }
 
-.post-card, article {
-  max-width: 100%;
-  max-width: 650px;
-  margin: 0 auto;
+.articles .article,
+article,
+.post-card {
+  width: 100%;             /* Garante que todos ocupem o mesmo espaço */
+  max-width: 650px;        /* Largura padrão exata igual para todas as postagens */
+  margin: 0 auto;          /* Centraliza os posts no meio da tela */
+  box-sizing: border-box;  /* Impede que o padding/borda altere o tamanho de posts específicos */
 }
 
 article:not(:last-child), .post-card:not(:last-child) {
