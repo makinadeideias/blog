@@ -198,7 +198,11 @@ main {
 }
 =======
 
-
+article:not(:last-child) {
+  border-bottom: 1px solid #e0e0e0; /* Espessura, estilo e cor da linha */
+  padding-bottom: 1em;             /* Espaço interno até a linha */
+  margin-bottom: 1em;              /* Espaço da linha até a próxima postagem */
+}
 /* Espaçamentos internos reduzidos */
 .post-title {
   margin: 0 0 0.25em 0;    /* Espaço mínimo abaixo do título */
