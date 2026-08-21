@@ -172,27 +172,35 @@ main {
 
 /* Article Section - 1 Coluna */
 
+/* Padronização forçada de largura para TODOS os posts */
 .articles {
-  display: grid;
-  grid-template-columns: 1fr;
-  row-gap: 5em; /* Garante o espaço de 1 linha entre as postagens */
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+  gap: 2em; /* Espaço de 2 linhas entre postagens */
 }
 
-.articles .article,
-article,
-.post-card {
-  width: 100%;             /* Garante que todos ocupem o mesmo espaço */
-  max-width: 650px;        /* Largura padrão exata igual para todas as postagens */
-  margin: 0 auto;          /* Centraliza os posts no meio da tela */
-  box-sizing: border-box;  /* Impede que o padding/borda altere o tamanho de posts específicos */
+/* Aplica regras idênticas para qualquer tag/classe dentro da lista */
+.articles > * {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  align-self: stretch !important; /* Impede que posts com pouco texto encolham */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
-article:not(:last-child), .post-card:not(:last-child) {
-  margin-bottom: 1em;
-  border-bottom: 1px solid var(--gray-4);
-  padding-bottom: 1em;
+/* Limitação de 3 linhas de texto mantida para todos os parágrafos de posts */
+.articles p, 
+.article p, 
+.post-card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.5rem;
 }
-
 /* Limitação de 3 linhas de texto */
 article p, .article-excerpt {
   display: -webkit-box;
