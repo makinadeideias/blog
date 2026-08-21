@@ -222,13 +222,7 @@ article p {
   margin-bottom: 0.5em;   /* Meia linha de espaço antes das tags */
 }
 /* Alinha o trecho e o link LER na mesma linha */
-.post-excerpt-wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* Centraliza a linha no container */
-  gap: 8px;                /* Espaço entre o texto e a palavra LER */
-  margin: 0.5em 0;         /* Mantém o espaçamento curto no layout */
-}
+
 
 /* Força o texto a ocupar no máximo 1 linha */
 .post-excerpt {
