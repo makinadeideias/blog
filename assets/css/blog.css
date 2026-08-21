@@ -189,7 +189,7 @@ main {
 article {
   max-width: 800px;   /* Define a largura máxima ideal para leitura */
   margin: 0 auto;     /* Centraliza o bloco na horizontal (0 topo/base, auto laterais) */
-  width: 90%;         /* Evita que o texto encoste na borda em telas pequenas */
+  width: 70%;         /* Evita que o texto encoste na borda em telas pequenas */
   box-sizing: border-box;
 }
 .articles .article {
