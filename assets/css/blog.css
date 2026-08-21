@@ -181,13 +181,11 @@ main {
 
 /* article section - Two Column List */
 
-.articles {
+.articles  {
   display: grid;
-  grid-template-columns: 100%;
-  column-gap: 2rem;
-  row-gap: 1.5rem;
-  margin: 4rem 0 3rem 0;
+  grid-template-columns: 1fr; /* Força tudo a ficar em 1 coluna */
 }
+
 
 .articles .article {
   padding: 1.5rem;
