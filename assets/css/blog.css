@@ -180,6 +180,7 @@ main {
 
 .post-card, article {
   max-width: 100%;
+  max-width: 650px;
   margin: 0 auto;
 }
 
