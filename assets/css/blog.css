@@ -207,7 +207,30 @@ main {
   color: #666;
   margin-bottom: 0.5em;   /* Meia linha de espaço antes das tags */
 }
+/* Alinha o trecho e o link LER na mesma linha */
+.post-excerpt-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centraliza a linha no container */
+  gap: 8px;                /* Espaço entre o texto e a palavra LER */
+  margin: 0.5em 0;         /* Mantém o espaçamento curto no layout */
+}
 
+/* Força o texto a ocupar no máximo 1 linha */
+.post-excerpt {
+  margin: 0;
+  white-space: nowrap;        /* Impede que o texto quebre para a segunda linha */
+  overflow: hidden;           /* Esconde o excesso de texto */
+  text-overflow: ellipsis;    /* Adiciona "..." automaticamente onde o texto for cortado */
+  max-width: 85%;             /* Garante espaço reservado para o link "LER" */
+}
+
+/* Estilização do link LER */
+.read-more {
+  font-weight: bold;
+  white-space: nowrap;        /* Impede que a palavra LER quebre */
+  text-decoration: underline;
+}
 .post-tags {
   margin-top: 0;          /* Garante que a distância total não ultrapasse 1 linha (1em) */
 }
