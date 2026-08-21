@@ -6,8 +6,7 @@ categories: [livre, pensando]
 ---
 
 
-página em branco
-sala vazia
-pensamentos vagando
-no nada
+página em branco  
+sala vazia  
+pensamentos vagando no nada
 
