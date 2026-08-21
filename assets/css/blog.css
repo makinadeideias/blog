@@ -29,7 +29,7 @@ header {
   gap: 1rem;
 }
 header .site-title {
-  font-size: 4rem;
+  font-size: 2.8rem;
   font-weight: bolder;
   line-height: 110%;
   color: var(--white-1);
@@ -467,7 +467,7 @@ main {
     align-self: flex-end;
   }
   header .site-title {
-    font-size: 3rem;
+    font-size: 2.2rem;
   }
   .filter-section {
     justify-content: center;
@@ -476,7 +476,7 @@ main {
 
 @media screen and (max-width: 550px) {
   header .site-title {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .articles {
     row-gap: 1.2rem;
@@ -503,7 +503,7 @@ main {
     row-gap: 1.2rem;
   }
   header .site-title {
-    font-size: 2.4rem;
+    font-size: 1.8rem;
   }
   .article {
     padding: 1.2rem;
