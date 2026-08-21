@@ -192,6 +192,10 @@ main {
   max-width: 700px;
   margin: 0 auto 2rem auto; /* Centraliza a postagem e dá espaço para a próxima */
   text-align: center;      /* Opcional: alinha o conteúdo no centro */
+  /* Aplica o espaço de 1 linha entre uma postagem e outra */
+.post-card:not(:last-child) {
+  margin-bottom: 1em; /* Espaço equivalente a 1 linha de texto */
+}
 =======
 
 
@@ -200,10 +204,7 @@ main {
   margin: 0 0 0.25em 0;    /* Espaço mínimo abaixo do título */
   line-height: 1.2;
 }
-/* Aplica o espaço de 1 linha entre uma postagem e outra */
-.post-card:not(:last-child) {
-  margin-bottom: 1em; /* Espaço equivalente a 1 linha de texto */
-}
+
 .post-date {
   display: block;
   font-size: 0.85em;
