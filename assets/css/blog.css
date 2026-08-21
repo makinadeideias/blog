@@ -189,9 +189,9 @@ main {
 <<<<<<< HEAD
 /* Centraliza a lista e limita a largura */
 .post-card {
-  max-width: 700px;
+  max-width: 60%;
   margin: 0 auto 2rem auto; /* Centraliza a postagem e dá espaço para a próxima */
-  text-align: center;      /* Opcional: alinha o conteúdo no centro */
+  text-align: justify;      /* Opcional: alinha o conteúdo no centro */
   /* Aplica o espaço de 1 linha entre uma postagem e outra */
 .post-card:not(:last-child) {
   margin-bottom: 1em; /* Espaço equivalente a 1 linha de texto */
@@ -222,11 +222,11 @@ main {
 
 /* Força o texto a ocupar no máximo 1 linha */
 .post-excerpt {
-  margin: 0;
-  white-space: nowrap;        /* Impede que o texto quebre para a segunda linha */
-  overflow: hidden;           /* Esconde o excesso de texto */
-  text-overflow: ellipsis;    /* Adiciona "..." automaticamente onde o texto for cortado */
-  max-width: 85%;             /* Garante espaço reservado para o link "LER" */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;       /* Defina aqui o número máximo de linhas (ex: 2, 3, 4) */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* Estilização do link LER */
