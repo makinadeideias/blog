@@ -175,7 +175,7 @@ main {
 .articles {
   display: grid;
   grid-template-columns: 1fr;
-  row-gap: 3em; /* Garante o espaço de 1 linha entre as postagens */
+  row-gap: 5em; /* Garante o espaço de 1 linha entre as postagens */
 }
 
 .post-card, article {
