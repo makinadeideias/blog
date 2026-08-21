@@ -208,7 +208,13 @@ article:not(:last-child) {
   margin: 0 0 0.25em 0;    /* Espaço mínimo abaixo do título */
   line-height: 1.2;
 }
-
+article p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Ajuste para 2 ou 3 linhas */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .post-date {
   display: block;
   font-size: 0.85em;
