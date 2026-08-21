@@ -224,15 +224,6 @@ article p {
 /* Alinha o trecho e o link LER na mesma linha */
 
 
-/* Força o texto a ocupar no máximo 1 linha */
-.post-excerpt {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;       /* Defina aqui o número máximo de linhas (ex: 2, 3, 4) */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
 /* Estilização do link LER */
 .read-more {
   font-weight: bold;
