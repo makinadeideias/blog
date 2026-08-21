@@ -322,7 +322,7 @@ article p, .article-excerpt {
 }
 
 .articles .article .categories .category:hover {
-  background: cyan !important;
+  background: whitesmoke !important;
   color: var(--gray-6) !important;
   transform: scale(1.05);
 }
