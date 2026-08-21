@@ -38,9 +38,9 @@
           <!-- Post Excerpt -->
           <p class="article-excerpt">
             {% if post.excerpt %}
-              {{ post.excerpt | strip_html | truncatewords: 30 }}
+              {{ post.excerpt | strip_html | truncatewords: 60 }}
             {% else %}
-              {{ post.content | strip_html | truncatewords: 30 }}
+              {{ post.content | strip_html | truncatewords: 60 }}
             {% endif %}
             <a href="{{site.baseurl}}{{post.url}}" class="read-more">Continuar →</a>
           </p>
