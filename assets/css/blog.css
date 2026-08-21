@@ -210,10 +210,10 @@ article:not(:last-child) {
 }
 article p {
   display: -webkit-box;
-  -webkit-line-clamp: 2; /* Ajuste para 2 ou 3 linhas */
+  -webkit-line-clamp: 3; /* Ajuste para 2 ou 3 linhas */
   -webkit-box-orient: vertical;
   overflow: hidden;
-  text-overflow: ellipsis;
+
 }
 .post-date {
   display: block;
