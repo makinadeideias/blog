@@ -1,20 +1,20 @@
 <div class="newsletter-box">
-  <h3>📧 Subscribe to My Newsletter</h3>
-  <p>Get updates on new posts and insights directly to your inbox.</p>
+  <h3>📧 Inscreva-se na minha newsletter</h3>
+  <p>Receba as últimas postagens antes de todo mundo</p>
   
   <form id="subscribe-form" method="POST" action="https://formspree.io/f/YOUR_FORM_ID">
     <input 
       type="email" 
       name="email" 
-      placeholder="your@email.com" 
+      placeholder="seu email aqui" 
       required
     >
     <input 
       type="text" 
       name="name" 
-      placeholder="Your name (optional)"
+      placeholder="Seu nome (opcional)"
     >
-    <button type="submit">Subscribe</button>
+    <button type="Enviar">Subscribe</button>
   </form>
   
   <p id="form-message" style="display:none;"></p>
@@ -24,9 +24,9 @@
 document.getElementById('subscribe-form').addEventListener('submit', function(e) {
   const messageEl = document.getElementById('form-message');
   messageEl.textContent = '✓ Thanks for subscribing! Check your email.';
-  messageEl.classList.add('success');
-  messageEl.classList.remove('error');
-  messageEl.style.display = 'block';
+  messageEl.classList.add('Sucesso');
+  messageEl.classList.remove('Erro');
+  messageEl.style.display = 'Bloqueado';
   
   // Reset form after 2 seconds
   setTimeout(() => {
