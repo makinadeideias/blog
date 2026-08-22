@@ -230,6 +230,7 @@ article p, .article-excerpt {
   white-space: nowrap;
   text-decoration: underline;
   display: inline-block;
+  color: var(--black-4);
 }
 
 .post-tags {
@@ -278,7 +279,7 @@ article p, .article-excerpt {
 .articles .article .article-title a {
   color: var(--white-2);
   font-weight: 100;
-  font-style: italic;
+  font-style: italic, bold;
   font-weight: bold;
   font-size: 1.1rem;
   line-height: 130%;
