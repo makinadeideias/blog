@@ -59,7 +59,7 @@ main {
 }
 #text-wrapper a {
   color:gray;
-  border-bottom: 1px solid rgb(255, 0, 43);
+  border-bottom: 1px solid gray(255, 0, 43);
 }
 @media (prefers-color-scheme: light) {
   #text-wrapper a {
@@ -165,7 +165,7 @@ main {
 }
 
 [data-theme="dark"] .filter-btn.active {
-  background: graycygrayan;
+  background: gray;
   color: var(--gray-6);
   border-color: gray;
 }
@@ -293,7 +293,7 @@ article p, .article-excerpt {
 
 @media (prefers-color-scheme: light) {
   .articles .article:hover {
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 15px black(0, 0, 0, 0.1);
   }
 }
 
