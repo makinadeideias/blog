@@ -63,12 +63,12 @@ main {
 }
 @media (prefers-color-scheme: light) {
   #text-wrapper a {
-    color: #gray;
+    color: gray;
     border-bottom: 1px solid #1ebaba;
   }
 }
 [data-theme="light"] #text-wrapper a {
-  color: #black;
+  color: black;
   border-bottom: 1px solid #1ebaba;
 }
 [data-theme="dark"] #text-wrapper a {
@@ -129,14 +129,14 @@ main {
 
 @media (prefers-color-scheme: light) {
   .filter-btn:hover {
-    border-color: #black;
-    color: #black;
+    border-color: black;
+    color: black;
   }
 }
 
 [data-theme="light"] .filter-btn:hover {
-  border-color: #black;
-  color: #black;
+  border-color: black;
+  color: black;
 }
 
 [data-theme="dark"] .filter-btn:hover {
@@ -152,16 +152,16 @@ main {
 
 @media (prefers-color-scheme: light) {
   .filter-btn.active {
-    background: #gray;
-    color: #black;
-    border-color: #gray;
+    background: gray;
+    color: black;
+    border-color: gray;
   }
 }
 
 [data-theme="light"] .filter-btn.active {
   background: whitesmoke;
-  color: #black;
-  border-color: #black;
+  color: black;
+  border-color: black;
 }
 
 [data-theme="dark"] .filter-btn.active {
@@ -204,7 +204,6 @@ main {
 /* Limitação de 3 linhas de texto */
 article p, .article-excerpt {
   display: -webkit-box;
-  -webkit-line-clamp: 2; /* Força o limite de 3 linhas */
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
