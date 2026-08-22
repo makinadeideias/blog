@@ -68,12 +68,12 @@ main {
   }
 }
 [data-theme="light"] #text-wrapper a {
-  color: #gray;
+  color: #black;
   border-bottom: 1px solid #1ebaba;
 }
 [data-theme="dark"] #text-wrapper a {
-  color: gray;
-  border-bottom: 1px solid gray;
+  color: black;
+  border-bottom: 1px solid black;
 }
 #social-wrapper {
   margin-top: 1rem;
