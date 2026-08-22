@@ -412,31 +412,35 @@ article p, .article-excerpt {
   }
 }
 /* Lista de posts da página inicial */
+/* Lista de posts da página inicial */
 .posts-list {
   list-style: none;
   padding: 0;
-  margin: 1rem 0;
-  font-family: 'Inconsolata', monospace;
+  margin: 1.5rem 0;
+  font-family: inherit;
 }
 
 .posts-list li {
   display: flex;
-  gap: 1rem;
-  margin-bottom: 0.35rem;
-  font-size: 0.95rem;
+  gap: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.94rem;
+  align-items: baseline;
 }
 
 .posts-list time {
-  color: #777;
+  color: gray;
   font-variant-numeric: tabular-nums;
   flex-shrink: 0;
+  font-size: 0.85rem;
 }
 
 .posts-list a {
   text-decoration: none;
-  color: #2c2c2c;
+  color: var(--white-1);
 }
 
 .posts-list a:hover {
   text-decoration: underline;
+  color: var(--white-2);
 }
