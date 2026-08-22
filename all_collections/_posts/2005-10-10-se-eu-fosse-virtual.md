@@ -2,7 +2,7 @@
 layout: post
 title: Se eu fosse virtual
 date: 2003-01-10 10:00:00
-categories: [livre]
+categories: [livre, conto]
 ---
 
 _“Chegou o tempo em que ou você é alguém@onde.oque ou você não é ninguém”_
