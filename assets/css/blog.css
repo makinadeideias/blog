@@ -123,7 +123,7 @@ main {
 }
 
 .filter-btn:hover {
-  border-color: cyan;
+  border-color: rgb(66, 93, 93);
   color: cyan;
 }
 
