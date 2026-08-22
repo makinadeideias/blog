@@ -332,7 +332,7 @@ article p, .article-excerpt {
 /* Newsletter Box */
 
 .newsletter-box {
-  max-width: 100%;
+  max-width: 60%;
   margin: 4rem auto;
   padding: 2.5rem;
   border: 2px solid var(--white-2);
@@ -377,7 +377,7 @@ article p, .article-excerpt {
 .newsletter-box button {
   width: 100%;
   padding: 0.8rem;
-  background: black;
+  background: rgb(139, 126, 126);
   color: var(--gray-6);
   border: none;
   border-radius: 6px;
