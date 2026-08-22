@@ -411,3 +411,32 @@ article p, .article-excerpt {
     justify-content: center;
   }
 }
+/* Lista de posts da página inicial */
+.posts-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  font-family: 'Inconsolata', monospace;
+}
+
+.posts-list li {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.posts-list time {
+  color: #777;
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+}
+
+.posts-list a {
+  text-decoration: none;
+  color: #2c2c2c;
+}
+
+.posts-list a:hover {
+  text-decoration: underline;
+}
