@@ -219,6 +219,7 @@ article p, .article-excerpt {
 
 .post-date, .date {
   display: block;
+  font-weight: bold;
   font-size: 0.85em;
   color: var(--black-4);
   margin-bottom: 0.5em;
