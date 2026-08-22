@@ -123,7 +123,7 @@ main {
 }
 
 .filter-btn:hover {
-  border-color: rgb(66, 93, 93);
+  border-color: black(66, 93, 93);
   color: black;
 }
 
