@@ -124,19 +124,19 @@ main {
 
 .filter-btn:hover {
   border-color: rgb(66, 93, 93);
-  color: cyan;
+  color: black;
 }
 
 @media (prefers-color-scheme: light) {
   .filter-btn:hover {
-    border-color: #1ebaba;
-    color: #1ebaba;
+    border-color: #black;
+    color: #black;
   }
 }
 
 [data-theme="light"] .filter-btn:hover {
-  border-color: #1ebaba;
-  color: #1ebaba;
+  border-color: #black;
+  color: #black;
 }
 
 [data-theme="dark"] .filter-btn:hover {
@@ -145,16 +145,16 @@ main {
 }
 
 .filter-btn.active {
-  background: cyan;
+  background: gray;
   color: var(--gray-6);
-  border-color: cyan;
+  border-color: gray;
 }
 
 @media (prefers-color-scheme: light) {
   .filter-btn.active {
-    background: #1ebaba;
+    background: #gray;
     color: #ffffff;
-    border-color: #1ebaba;
+    border-color: #gray;
   }
 }
 
@@ -165,9 +165,9 @@ main {
 }
 
 [data-theme="dark"] .filter-btn.active {
-  background: cyan;
+  background: graycygrayan;
   color: var(--gray-6);
-  border-color: cyan;
+  border-color: gray;
 }
 
 /* Article Section - 1 Coluna */
@@ -378,7 +378,7 @@ article p, .article-excerpt {
 .newsletter-box button {
   width: 100%;
   padding: 0.8rem;
-  background: cyan;
+  background: black;
   color: var(--gray-6);
   border: none;
   border-radius: 6px;
