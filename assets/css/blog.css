@@ -140,8 +140,8 @@ main {
 }
 
 [data-theme="dark"] .filter-btn:hover {
-  border-color: cyan;
-  color: cyan;
+  border-color: darkgray;
+  color: darkgrey;
 }
 
 .filter-btn.active {
@@ -159,8 +159,8 @@ main {
 }
 
 [data-theme="light"] .filter-btn.active {
-  background: #1ebaba;
-  color: #ffffff;
+  background: whitesmoke;
+  color: #black;
   border-color: #1ebaba;
 }
 
