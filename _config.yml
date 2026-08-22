@@ -24,3 +24,4 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+url: "[https://makinadeideias.github.io](https://makinadeideias.github.io)"
