@@ -58,22 +58,22 @@ main {
   font-weight: 300;
 }
 #text-wrapper a {
-  color: cyan;
+  color:gray;
   border-bottom: 1px solid rgb(255, 0, 43);
 }
 @media (prefers-color-scheme: light) {
   #text-wrapper a {
-    color: #1ebaba;
+    color: #gray;
     border-bottom: 1px solid #1ebaba;
   }
 }
 [data-theme="light"] #text-wrapper a {
-  color: #1ebaba;
+  color: #gray;
   border-bottom: 1px solid #1ebaba;
 }
 [data-theme="dark"] #text-wrapper a {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: gray;
+  border-bottom: 1px solid gray;
 }
 #social-wrapper {
   margin-top: 1rem;
