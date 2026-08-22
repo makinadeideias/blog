@@ -30,12 +30,12 @@ header {
 header .site-title {
   font-size: 1.8rem !important;
   font-weight: bolder;
-  line-height: 110%;
+  line-height: 100%;
   color: var(--white-1);
 }
 main {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 800px;
   padding: 3rem 0;
 }
 
