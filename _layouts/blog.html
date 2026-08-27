@@ -79,7 +79,7 @@
           articles.forEach(article => {
             if (category === 'all') {
               article.style.display = 'block';
-              setTimeout(() => article.classList.add('show'), 10);
+              setTimeout(() => article.classList.add('show'), 100);
             } else {
               const categories = article.getAttribute('data-categories').split(' ');
               if (categories.includes(category)) {
