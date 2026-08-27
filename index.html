@@ -3,20 +3,52 @@ layout: default
 title: Início
 ---
 
-<section class="feed">
+<!-- Descrição e Tags/Tópicos -->
+<section class="intro-section">
+  <p class="site-bio">
+    {{ site.description }}
+  </p>
+  
+  <div class="topic-tags">
+    <span class="tag">#educação</span>
+    <span class="tag">#tecnologia</span>
+    <span class="tag">#filosofia</span>
+    <span class="tag">#ensaios</span>
+    <span class="tag">#notas</span>
+  </div>
+</section>
+
+<hr class="sep-light">
+
+<!-- Seção Novidades / Destaque -->
+<section class="section-block">
+  <h2 class="section-title">Novidades</h2>
+  
+  <div class="news-card">
+    <div class="news-badge">Recente</div>
+    <div class="news-body">
+      <p>Novo espaço com notas curtas, materiais de aula e textos compilados em formato minimalista.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Seção Posts Recentes / Notas -->
+<section class="section-block">
+  <h2 class="section-title">Posts mais recentes</h2>
+
   <ul class="posts-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 8 %}
       <li class="post-entry">
         <time class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</time>
-        <h2 class="entry-title">
+        <h3 class="entry-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
+        </h3>
         <div class="entry-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 28 }}
+          {{ post.excerpt | strip_html | truncatewords: 24 }}
         </div>
       </li>
     {% else %}
-      <li class="post-entry"><p>Nenhum artigo encontrado.</p></li>
+      <li class="post-entry"><p>Nenhum artigo publicado no momento.</p></li>
     {% endfor %}
   </ul>
 </section>
