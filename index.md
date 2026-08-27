@@ -1,21 +1,28 @@
 ---
-layout: blog
+layout: default
 title: Home
 ---
 
-<h3>Recent notes</h3>
+<div class="home">
+  <h1>Artigos Recentes</h1>
 
-<ul class="posts-list">
-  {% for post in site.posts limit:15 %}
-    <li>
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        {{ post.date | date: "%d %b %Y" }}
-      </time>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<p>
-  <a href="{{ '/posts' | relative_url }}">&gt;&gt; see all posts</a>
-</p>
+  <ul class="post-list" style="list-style: none; padding: 0;">
+    {% for post in site.posts %}
+      <li style="margin-bottom: 25px;">
+        <span class="post-meta" style="color: #6a737d; font-size: 0.9em;">
+          {{ post.date | date: "%d/%m/%Y" }}
+        </span>
+        
+        <h2 style="margin: 5px 0;">
+          <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0366d6;">
+            {{ post.title }}
+          </a>
+        </h2>
+        
+        <div class="post-excerpt" style="color: #444; line-height: 1.5;">
+          {{ post.excerpt | strip_html | truncatewords: 35 }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
