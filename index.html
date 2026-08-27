@@ -3,23 +3,20 @@ layout: default
 title: Início
 ---
 
-<section class="posts-feed">
-  <h2>Recent notes</h2>
-
-  <div class="posts-list">
+<section class="feed">
+  <ul class="posts-list">
     {% for post in site.posts %}
-      <article class="post-card">
-        <time class="post-date">{{ post.date | date: "%d/%m/%Y" }}</time>
-        <h3 class="card-title">
+      <li class="post-entry">
+        <time class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</time>
+        <h2 class="entry-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h3>
-        <div class="card-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 30 }}
+        </h2>
+        <div class="entry-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 28 }}
         </div>
-        <a class="read-more" href="{{ post.url | relative_url }}">Continue lendo &rarr;</a>
-      </article>
+      </li>
     {% else %}
-      <p>Nenhum artigo encontrado.</p>
+      <li class="post-entry"><p>Nenhum artigo encontrado.</p></li>
     {% endfor %}
-  </div>
+  </ul>
 </section>

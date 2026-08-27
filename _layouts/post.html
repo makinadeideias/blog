@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<article class="single-post">
+<article class="post-single">
   <header class="post-header">
-    <time class="post-date">{{ page.date | date: "%d/%m/%Y" }}</time>
+    <time class="post-meta">{{ page.date | date: "%d de %b de %Y" }}</time>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  <div class="post-body">
+  <div class="post-content">
     {{ content }}
   </div>
 
-  <div class="post-navigation">
-    <a href="{{ '/' | relative_url }}">&larr; Voltar para a página inicial</a>
+  <div class="post-back">
+    <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
   </div>
 </article>

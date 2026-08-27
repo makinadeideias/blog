@@ -1,9 +1,10 @@
 title: "A cabeça da Mákina"
-description: "Notas, reflexões e ensaios"
+author: "Flávio Martins"
+description: "Filosofia, tecnologia, educação e notas breves."
 url: "https://makinadeideias.github.io"
 baseurl: "/blog"
 
-# Bloqueia posts com datas futuras
+# Bloqueia posts com data no futuro
 future: false
 
 timezone: America/Sao_Paulo
