@@ -134,8 +134,11 @@ body {
 }
 
 .site-bio {
+  font-family: var(--font-serif);
+  font-style: italic;
   font-size: 1.05rem;
-  margin: 0 0 0.6rem 0;
+  margin: 0 0 0.65rem 0;
+  color: var(--text);
 }
 
 .topic-tags {

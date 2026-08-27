@@ -3,14 +3,14 @@ layout: default
 title: Início
 ---
 
-<!-- Seção Perfil com Nuvem de Tags Dinâmicas -->
+<!-- Seção Perfil (Foto + Frase + Tags Dinâmicas) -->
 <section class="profile-section">
   <div class="profile-header">
     <img src="{{ '/assets/images/perfil.jpg' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
     <div class="profile-info">
-      <p class="site-bio">{{ site.description }}</p>
+      <p class="site-bio">I read the air and write bits of my understanding.</p>
       
-      <!-- Tags geradas a partir dos posts publicados -->
+      <!-- Tags geradas a partir dos posts -->
       <div class="topic-tags">
         {% assign all_tags = site.tags | sort %}
         {% for tag in all_tags %}
