@@ -4,13 +4,48 @@ layout: default
 
 <article class="post-single">
   <header class="post-header">
-    <time class="post-meta">{{ page.date | date: "%d de %b de %Y" }}</time>
+    <div class="post-meta">
+      <time>{{ page.date | date: "%d de %b de %Y" }}</time>
+      <span class="meta-sep">·</span>
+      <span class="post-author">{{ page.author | default: site.author }}</span>
+    </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
   <div class="post-content">
     {{ content }}
   </div>
+
+  <!-- Botões de Compartilhamento -->
+  <section class="share-section">
+    <span class="share-title">Compartilhar:</span>
+    <div class="share-buttons">
+      <!-- WhatsApp -->
+      <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-wa" 
+         title="Compartilhar no WhatsApp">
+        WhatsApp
+      </a>
+
+      <!-- E-mail -->
+      <a href="mailto:?subject={{ page.title | url_encode }}&body=Confira%20este%20artigo:%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         class="share-btn share-mail" 
+         title="Compartilhar via E-mail">
+        E-mail
+      </a>
+
+      <!-- Instagram (Direciona para Perfil ou Copia Link) -->
+      <a href="https://instagram.com" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-ig" 
+         title="Instagram">
+        Instagram
+      </a>
+    </div>
+  </section>
 
   <div class="post-back">
     <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
