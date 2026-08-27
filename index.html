@@ -3,48 +3,38 @@ layout: default
 title: Início
 ---
 
-<!-- Descrição e Tags/Tópicos -->
-<section class="intro-section">
-  <p class="site-bio">
-    {{ site.description }}
-  </p>
-  
-  <div class="topic-tags">
-    <span class="tag">#educação</span>
-    <span class="tag">#tecnologia</span>
-    <span class="tag">#filosofia</span>
-    <span class="tag">#ensaios</span>
-    <span class="tag">#notas</span>
+<!-- Seção Perfil (Foto + Bio + Tags) -->
+<section class="profile-section">
+  <div class="profile-header">
+    <img src="{{ '/assets/images/perfil.jpg' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
+    <div class="profile-info">
+      <p class="site-bio">{{ site.description }}</p>
+      <div class="topic-tags">
+        <span class="tag">#educação</span>
+        <span class="tag">#tecnologia</span>
+        <span class="tag">#filosofia</span>
+        <span class="tag">#ensaios</span>
+        <span class="tag">#notas</span>
+      </div>
+    </div>
   </div>
 </section>
 
 <hr class="sep-light">
 
-<!-- Seção Novidades / Destaque -->
-<section class="section-block">
-  <h2 class="section-title">Novidades</h2>
-  
-  <div class="news-card">
-    <div class="news-badge">Recente</div>
-    <div class="news-body">
-      <p>Novo espaço com notas curtas, materiais de aula e textos compilados em formato minimalista.</p>
-    </div>
-  </div>
-</section>
-
-<!-- Seção Posts Recentes / Notas -->
+<!-- Posts mais recentes -->
 <section class="section-block">
   <h2 class="section-title">Posts mais recentes</h2>
 
   <ul class="posts-list">
-    {% for post in site.posts limit: 8 %}
+    {% for post in site.posts limit: 10 %}
       <li class="post-entry">
         <time class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</time>
         <h3 class="entry-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h3>
         <div class="entry-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 24 }}
+          {{ post.excerpt | strip_html | truncatewords: 28 }}
         </div>
       </li>
     {% else %}
