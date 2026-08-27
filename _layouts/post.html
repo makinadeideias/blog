@@ -8,8 +8,6 @@ layout: default
       <time>{{ page.date | date: "%d de %b de %Y" }}</time>
       <span class="meta-sep">·</span>
       <span class="post-author">{{ page.author | default: site.author }}</span>
-      <span class="meta-sep">·</span>
-      <span class="post-views">👁️ <span id="page-views">...</span> leituras</span>
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
@@ -18,29 +16,41 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Botões de compartilhamento ... -->
+  <!-- Botões de Compartilhamento com Font Awesome -->
+  <section class="share-section">
+    <span class="share-title">Compartilhar:</span>
+    <div class="share-buttons">
+      <!-- WhatsApp -->
+      <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-wa" 
+         title="Compartilhar no WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
+        <span>WhatsApp</span>
+      </a>
+
+      <!-- E-mail -->
+      <a href="mailto:?subject={{ page.title | url_encode }}&body=Confira%20este%20artigo:%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         class="share-btn share-mail" 
+         title="Compartilhar via E-mail">
+        <i class="fa-solid fa-envelope"></i>
+        <span>E-mail</span>
+      </a>
+
+      <!-- Instagram -->
+      <a href="https://instagram.com" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-ig" 
+         title="Instagram">
+        <i class="fa-brands fa-instagram"></i>
+        <span>Instagram</span>
+      </a>
+    </div>
+  </section>
 
   <div class="post-back">
     <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
   </div>
 </article>
-
-<!-- Script do Contador de Visitas -->
-<script>
-  (function() {
-    const namespace = "makinadeideias-blog";
-    // Cria uma chave única para cada página baseada no caminho da URL
-    const pageKey = encodeURIComponent(window.location.pathname.replace(/\//g, '_'));
-    
-    fetch(`https://api.countapi.xyz/hit/${namespace}/${pageKey}`)
-      .then(res => res.json())
-      .then(data => {
-        const viewEl = document.getElementById('page-views');
-        if (viewEl) viewEl.innerText = data.value;
-      })
-      .catch(() => {
-        const viewEl = document.getElementById('page-views');
-        if (viewEl) viewEl.innerText = '1';
-      });
-  })();
-</script>

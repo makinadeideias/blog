@@ -22,6 +22,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
 
+  <!-- Font Awesome 6 (CDN) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% seo %}
 </head>
@@ -69,28 +72,6 @@
       <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }} · Publicado com Jekyll</p>
     </footer>
   </div>
-
-
-<footer class="footer">
-  <hr class="sep">
-  <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }} · Publicado com Jekyll</p>
-  <p class="site-views" style="font-size: 0.75rem; margin-top: 0.3rem;">
-    Total de visitas: <span id="site-total-views">...</span>
-  </p>
-</footer>
-
-<script>
-  (function() {
-    fetch('https://api.countapi.xyz/hit/makinadeideias-blog/total-site-views')
-      .then(res => res.json())
-      .then(data => {
-        const el = document.getElementById('site-total-views');
-        if (el) el.innerText = data.value;
-      })
-      .catch(() => {});
-  })();
-</script>
-
 
   <script>
     const themeBtn = document.getElementById('theme-btn');
