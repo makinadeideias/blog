@@ -84,7 +84,7 @@
               const categories = article.getAttribute('data-categories').split(' ');
               if (categories.includes(category)) {
                 article.style.display = 'block';
-                setTimeout(() => article.classList.add('show'), 10);
+                setTimeout(() => article.classList.add('show'), 100);
               } else {
                 article.classList.remove('show');
                 setTimeout(() => article.style.display = 'none', 300);
