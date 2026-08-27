@@ -3,13 +3,13 @@ description: "Notas, reflexões e ensaios"
 url: "https://makinadeideias.github.io"
 baseurl: "/blog"
 
-# Configurações de compilação
-future: true
+# Bloqueia posts com datas futuras
+future: false
+
 timezone: America/Sao_Paulo
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
-# Plugins compatíveis com o GitHub Pages
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
