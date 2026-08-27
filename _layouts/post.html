@@ -16,7 +16,7 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Botões de Compartilhamento -->
+  <!-- Botões de Compartilhamento (Apenas Ícones) -->
   <section class="share-section">
     <span class="share-title">Compartilhar:</span>
     <div class="share-buttons">
@@ -25,17 +25,17 @@ layout: default
          target="_blank" 
          rel="noopener noreferrer" 
          class="share-btn share-wa" 
-         title="Compartilhar no WhatsApp">
+         aria-label="Compartilhar no WhatsApp"
+         title="WhatsApp">
         <i class="fa-brands fa-whatsapp"></i>
-        <span>WhatsApp</span>
       </a>
 
       <!-- E-mail -->
       <a href="mailto:?subject={{ page.title | url_encode }}&body=Confira%20este%20artigo:%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
          class="share-btn share-mail" 
-         title="Compartilhar via E-mail">
+         aria-label="Compartilhar via E-mail"
+         title="E-mail">
         <i class="fa-solid fa-envelope"></i>
-        <span>E-mail</span>
       </a>
 
       <!-- Instagram -->
@@ -43,9 +43,9 @@ layout: default
          target="_blank" 
          rel="noopener noreferrer" 
          class="share-btn share-ig" 
+         aria-label="Abrir Instagram"
          title="Instagram">
         <i class="fa-brands fa-instagram"></i>
-        <span>Instagram</span>
       </a>
     </div>
   </section>

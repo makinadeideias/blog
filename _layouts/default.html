@@ -1,77 +1,86 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  
+  <script>
+    (function() {
+      const savedTheme = localStorage.getItem('theme');
+      const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+      } else if (systemPrefersDark) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
 
-<article class="post-single">
-  <header class="post-header">
-    <div class="post-meta">
-      <time>{{ page.date | date: "%d de %b de %Y" }}</time>
-      <span class="meta-sep">·</span>
-      <span class="post-author">{{ page.author | default: site.author }}</span>
-    </div>
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+  <!-- Google Fonts: Courier Prime + Lora -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
 
-  <div class="post-content">
-    {{ content }}
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="header-main">
+        <h1 class="logo">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        <button id="theme-btn" class="theme-btn" aria-label="Alternar tema" type="button">
+          <!-- Ícone do Sol (Modo Claro) -->
+          <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <!-- Ícone da Lua (Modo Escuro) -->
+          <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}">Início</a>
+        <a href="{{ '/sobre' | relative_url }}">Sobre</a>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      </nav>
+      <hr class="sep">
+    </header>
+
+    <main class="content">
+      {{ content }}
+    </main>
+
+    <footer class="footer">
+      <hr class="sep">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }} · Publicado com Jekyll</p>
+    </footer>
   </div>
 
-  <!-- Botões de Compartilhamento -->
-  <section class="share-section">
-    <span class="share-title">Compartilhar:</span>
-    <div class="share-buttons">
-      <!-- WhatsApp -->
-      <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
-         target="_blank" 
-         rel="noopener noreferrer" 
-         class="share-btn share-wa" 
-         title="Compartilhar no WhatsApp">
-        <i class="fa-brands fa-whatsapp"></i>
-        <span>WhatsApp</span>
-      </a>
-
-      <!-- E-mail -->
-      <a href="mailto:?subject={{ page.title | url_encode }}&body=Confira%20este%20artigo:%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
-         class="share-btn share-mail" 
-         title="Compartilhar via E-mail">
-        <i class="fa-solid fa-envelope"></i>
-        <span>E-mail</span>
-      </a>
-
-      <!-- Instagram -->
-      <a href="https://instagram.com" 
-         target="_blank" 
-         rel="noopener noreferrer" 
-         class="share-btn share-ig" 
-         title="Instagram">
-        <i class="fa-brands fa-instagram"></i>
-        <span>Instagram</span>
-      </a>
-    </div>
-  </section>
-
-  <!-- Seção Leia Também (3 Posts Aleatórios) -->
-  <section class="related-posts-section">
-    <h2 class="related-title">Leia também</h2>
-    <ul class="related-posts-list">
-      {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
-      {% assign random_posts = other_posts | sample: 3 %}
-      
-      {% for post in random_posts %}
-        <li class="related-post-item">
-          <time class="related-post-date">{{ post.date | date: "%d/%m/%Y" }}</time>
-          <h3 class="related-post-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
-          <p class="related-post-excerpt">
-            {{ post.excerpt | strip_html | truncatewords: 18 }}
-          </p>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-
-  <div class="post-back">
-    <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
-  </div>
-</article>
+  <script>
+    const themeBtn = document.getElementById('theme-btn');
+    themeBtn.addEventListener('click', () => {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      const nextTheme = isDark ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', nextTheme);
+      localStorage.setItem('theme', nextTheme);
+    });
+  </script>
+</body>
+</html>
