@@ -12,7 +12,7 @@ title: Início
       <div class="topic-tags">
         <span class="tag">#educação</span>
         <span class="tag">#tecnologia</span>
-        <span class="tag">#filmes</span>
+        <span class="tag">#filosofia</span>
         <span class="tag">#ensaios</span>
         <span class="tag">#notas</span>
       </div>
@@ -33,9 +33,10 @@ title: Início
         <h3 class="entry-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h3>
-        <div class="entry-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 28 }}
-        </div>
+        <p class="entry-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 35 }}
+          <a class="read-more-inline" href="{{ post.url | relative_url }}">LER MAIS</a>
+        </p>
       </li>
     {% else %}
       <li class="post-entry"><p>Nenhum artigo publicado no momento.</p></li>

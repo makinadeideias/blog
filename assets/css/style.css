@@ -2,7 +2,8 @@
   --bg: #fbfbfd;
   --text: #2c302e;
   --muted: #70757a;
-  --accent: #9e2a2b;
+  --title-blue: #0366d6;
+  --link-hover: #024ea4;
   --border: #e0e0e0;
   --card-bg: #f3f3f6;
   --font-mono: 'Courier Prime', 'Courier New', Courier, monospace;
@@ -13,7 +14,8 @@
   --bg: #191b1d;
   --text: #dcdcdc;
   --muted: #8e9297;
-  --accent: #e5989b;
+  --title-blue: #58a6ff;
+  --link-hover: #79b8ff;
   --border: #33383c;
   --card-bg: #22252a;
 }
@@ -27,7 +29,7 @@ body {
   font-family: var(--font-serif);
   background-color: var(--bg);
   color: var(--text);
-  line-height: 1.75;
+  line-height: 1.7;
   margin: 0;
   padding: 0;
   font-size: 1.05rem;
@@ -54,7 +56,7 @@ body {
 }
 
 .logo a {
-  color: var(--text);
+  color: var(--title-blue);
   text-decoration: none;
 }
 
@@ -72,7 +74,7 @@ body {
 }
 
 .theme-btn:hover {
-  border-color: var(--accent);
+  border-color: var(--title-blue);
 }
 
 /* Alternância dos ícones SVG */
@@ -96,7 +98,7 @@ body {
 }
 
 .nav a:hover {
-  color: var(--accent);
+  color: var(--title-blue);
   text-decoration: underline;
 }
 
@@ -186,35 +188,61 @@ body {
   margin-bottom: 0.2rem;
 }
 
+/* Títulos dos Posts em Azul */
 .entry-title {
   font-family: var(--font-serif);
   font-weight: 600;
   font-size: 1.3rem;
-  margin: 0 0 0.3rem 0;
+  margin: 0 0 0.4rem 0;
   line-height: 1.3;
 }
 
 .entry-title a {
-  color: var(--accent);
+  color: var(--title-blue);
   text-decoration: none;
 }
 
 .entry-title a:hover {
+  color: var(--link-hover);
   text-decoration: underline;
 }
 
+/* Excerto com limite estrito de 3 linhas */
 .entry-excerpt {
   color: var(--text);
   font-size: 0.98rem;
+  line-height: 1.55;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* Single Post */
+.read-more-inline {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--title-blue);
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  margin-left: 0.35rem;
+  white-space: nowrap;
+}
+
+.read-more-inline:hover {
+  text-decoration: underline;
+}
+
+/* Post Individual */
 .post-title {
   font-family: var(--font-serif);
   font-weight: 600;
   font-size: 1.85rem;
   line-height: 1.25;
   margin: 0.3rem 0 1.5rem 0;
+  color: var(--title-blue);
 }
 
 .post-content p {
@@ -222,7 +250,7 @@ body {
 }
 
 .post-content a {
-  color: var(--accent);
+  color: var(--title-blue);
 }
 
 .post-back {
@@ -239,7 +267,7 @@ body {
 }
 
 .post-back a:hover {
-  color: var(--accent);
+  color: var(--title-blue);
 }
 
 .footer {
