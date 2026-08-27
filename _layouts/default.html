@@ -70,6 +70,28 @@
     </footer>
   </div>
 
+
+<footer class="footer">
+  <hr class="sep">
+  <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author | default: site.title }} · Publicado com Jekyll</p>
+  <p class="site-views" style="font-size: 0.75rem; margin-top: 0.3rem;">
+    Total de visitas: <span id="site-total-views">...</span>
+  </p>
+</footer>
+
+<script>
+  (function() {
+    fetch('https://api.countapi.xyz/hit/makinadeideias-blog/total-site-views')
+      .then(res => res.json())
+      .then(data => {
+        const el = document.getElementById('site-total-views');
+        if (el) el.innerText = data.value;
+      })
+      .catch(() => {});
+  })();
+</script>
+
+
   <script>
     const themeBtn = document.getElementById('theme-btn');
     themeBtn.addEventListener('click', () => {
