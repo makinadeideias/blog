@@ -16,7 +16,7 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Botões de Compartilhamento com Font Awesome -->
+  <!-- Botões de Compartilhamento -->
   <section class="share-section">
     <span class="share-title">Compartilhar:</span>
     <div class="share-buttons">
@@ -48,6 +48,21 @@ layout: default
         <span>Instagram</span>
       </a>
     </div>
+  </section>
+
+  <!-- Seção Leia Também (Apenas Títulos) -->
+  <section class="related-posts-section">
+    <h2 class="related-title">Leia também</h2>
+    <ul class="related-posts-list">
+      {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
+      {% assign random_posts = other_posts | sample: 3 %}
+      
+      {% for post in random_posts %}
+        <li class="related-post-item">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </section>
 
   <div class="post-back">
