@@ -23,6 +23,18 @@ title: Início
 
 <hr class="sep-light">
 
+<!-- Lista de Tags dos Posts -->
+{% assign all_tags = site.tags | sort %}
+{% if all_tags.size > 0 %}
+  <div class="section-tags-cloud">
+    <div class="topic-tags">
+      {% for tag in all_tags %}
+        <a class="tag" href="{{ '/tags#' | append: tag[0] | relative_url }}">#{{ tag[0] }}</a>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}
+
 <!-- Posts mais recentes -->
 <section class="section-block">
   <h2 class="section-title">Posts mais recentes</h2>
