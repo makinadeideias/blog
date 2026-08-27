@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  
+  <script>
+    (function() {
+      const savedTheme = localStorage.getItem('theme');
+      const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+      } else if (systemPrefersDark) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <div class="header-top">
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Alternar modo escuro/claro" type="button">
+          <span class="theme-icon">🌓</span>
+        </button>
+      </div>
+      {% if site.description %}
+        <p class="site-subtitle">{{ site.description }}</p>
+      {% endif %}
+      <hr class="divider">
+    </header>
+
+    <main class="site-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <hr class="divider">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Feito com Jekyll.</p>
+    </footer>
+  </div>
+
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    toggleBtn.addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const targetTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', targetTheme);
+      localStorage.setItem('theme', targetTheme);
+    });
+  </script>
+</body>
+</html>
