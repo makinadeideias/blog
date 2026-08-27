@@ -1,71 +1,4 @@
-/* Seção de Compartilhamento */
-.share-section {
-  margin-top: 3rem;
-  padding: 1.2rem 0;
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.share-title {
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.share-buttons {
-  display: flex;
-  gap: 0.6rem;
-  flex-wrap: wrap;
-}
-
-.share-btn {
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
-  text-decoration: none;
-  padding: 5px 10px;
-  border-radius: 4px;
-  border: 1px solid var(--border);
-  background-color: var(--card-bg);
-  color: var(--text);
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-  transition: all 0.2s ease;
-}
-
-.share-icon {
-  display: block;
-  flex-shrink: 0;
-}
-
-/* Efeito Hover mantendo a harmonia com o tema */
-.share-btn:hover {
-  border-color: var(--title-blue);
-  color: var(--title-blue);
-}
-
-.share-wa:hover {
-  border-color: #25d366;
-  color: #25d366;
-}
-
-.share-ig:hover {
-  border-color: #e1306c;
-  color: #e1306c;
-}
-
-.share-mail:hover {
-  border-color: var(--title-blue);
-  color: var(--title-blue);
-}
-
-/* Seção Leia Também */
+/* Seção Leia Também (Apenas Títulos) */
 .related-posts-section {
   margin-top: 3rem;
   padding-top: 2rem;
@@ -74,56 +7,33 @@
 
 .related-title {
   font-family: var(--font-mono);
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--text);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
 .related-posts-list {
-  list-style: none;
-  padding: 0;
+  list-style: square;
+  padding-left: 1.25rem;
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 0.6rem;
 }
 
 .related-post-item {
-  border-bottom: 1px dashed var(--border);
-  padding-bottom: 1rem;
-}
-
-.related-post-item:last-child {
-  border-bottom: none;
-  padding-bottom: 0;
-}
-
-.related-post-date {
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
-  color: var(--muted);
-  display: block;
-  margin-bottom: 0.2rem;
-}
-
-.related-post-title {
   font-family: var(--font-serif);
-  font-size: 1.15rem;
-  font-weight: 600;
-  margin: 0 0 0.3rem 0;
-  line-height: 1.3;
+  font-size: 1.08rem;
 }
 
-.related-post-title a {
+.related-post-item a {
   color: var(--title-blue);
   text-decoration: none;
 }
 
-.related-post-title a:hover {
+.related-post-item a:hover {
   text-decoration: underline;
-}
-
 }
