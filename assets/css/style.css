@@ -113,7 +113,7 @@ body {
   margin: 2rem 0;
 }
 
-/* Perfil e Foto */
+/* Perfil e Tags Clicáveis */
 .profile-header {
   display: flex;
   align-items: center;
@@ -142,7 +142,7 @@ body {
   font-family: var(--font-mono);
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0.45rem;
   font-size: 0.8rem;
 }
 
@@ -152,6 +152,55 @@ body {
   padding: 2px 7px;
   border-radius: 3px;
   border: 1px solid var(--border);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.tag:hover {
+  border-color: var(--title-blue);
+  color: var(--title-blue);
+}
+
+/* Metadados e Tags do Post */
+.post-meta {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.post-item-tags {
+  display: inline-flex;
+  gap: 0.35rem;
+}
+
+.tag-link {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.tag-link:hover {
+  color: var(--title-blue);
+  text-decoration: underline;
+}
+
+.post-tags-list {
+  display: flex;
+  gap: 0.4rem;
+  margin: 0.3rem 0 0.6rem 0;
+}
+
+.meta-sep {
+  color: var(--muted);
+}
+
+.post-author {
+  color: var(--text);
+  font-weight: 700;
 }
 
 /* Seções */
@@ -177,25 +226,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.8rem;
-}
-
-.post-meta {
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
-  color: var(--muted);
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  margin-bottom: 0.3rem;
-}
-
-.meta-sep {
-  color: var(--muted);
-}
-
-.post-author {
-  color: var(--text);
-  font-weight: 700;
 }
 
 .entry-title {
@@ -249,7 +279,7 @@ body {
   font-weight: 600;
   font-size: 1.85rem;
   line-height: 1.25;
-  margin: 0.3rem 0 1.5rem 0;
+  margin: 0.4rem 0 1.5rem 0;
   color: var(--title-blue);
 }
 
@@ -357,6 +387,50 @@ body {
 }
 
 .related-post-item a:hover {
+  text-decoration: underline;
+}
+
+/* Página de Tags */
+.page-title {
+  font-family: var(--font-mono);
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+}
+
+.tag-group {
+  margin-bottom: 2rem;
+  scroll-margin-top: 2rem;
+}
+
+.tag-group-title {
+  font-family: var(--font-mono);
+  font-size: 1.2rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.8rem;
+}
+
+.tag-posts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tag-posts-list li {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+}
+
+.tag-posts-list a {
+  color: var(--title-blue);
+  text-decoration: none;
+}
+
+.tag-posts-list a:hover {
   text-decoration: underline;
 }
 

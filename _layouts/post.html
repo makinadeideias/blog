@@ -9,6 +9,15 @@ layout: default
       <span class="meta-sep">·</span>
       <span class="post-author">{{ page.author | default: site.author }}</span>
     </div>
+
+    {% if page.tags.size > 0 %}
+      <div class="post-tags-list">
+        {% for tag in page.tags %}
+          <a class="tag" href="{{ '/tags#' | append: tag | relative_url }}">#{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
@@ -16,7 +25,7 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- Botões de Compartilhamento (Apenas Ícones) -->
+  <!-- Botões de Compartilhamento -->
   <section class="share-section">
     <span class="share-title">Compartilhar:</span>
     <div class="share-buttons">
@@ -50,7 +59,7 @@ layout: default
     </div>
   </section>
 
-  <!-- Seção Leia Também (Apenas Títulos) -->
+  <!-- Seção Leia Também -->
   <section class="related-posts-section">
     <h2 class="related-title">Leia também</h2>
     <ul class="related-posts-list">

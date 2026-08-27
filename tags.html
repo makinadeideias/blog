@@ -1,0 +1,34 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+
+<h1 class="page-title">Tags e Tópicos</h1>
+
+<div class="tags-directory">
+  {% assign all_tags = site.tags | sort %}
+  <div class="topic-tags" style="margin-bottom: 2rem;">
+    {% for tag in all_tags %}
+      <a class="tag" href="#{{ tag[0] }}">#{{ tag[0] }} ({{ tag[1].size }})</a>
+    {% endfor %}
+  </div>
+
+  <hr class="sep-light">
+
+  <div class="tags-grouped-list">
+    {% for tag in all_tags %}
+      <div class="tag-group" id="{{ tag[0] }}">
+        <h2 class="tag-group-title">#{{ tag[0] }}</h2>
+        <ul class="tag-posts-list">
+          {% for post in tag[1] %}
+            <li>
+              <time class="post-date">{{ post.date | date: "%d/%m/%Y" }}</time>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
+  </div>
+</div>
