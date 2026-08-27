@@ -1,23 +1,3 @@
-/* Metadados do Post (Data + Autor) */
-.post-meta {
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
-  color: var(--muted);
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  margin-bottom: 0.3rem;
-}
-
-.meta-sep {
-  color: var(--muted);
-}
-
-.post-author {
-  color: var(--text);
-  font-weight: 700;
-}
-
 /* Seção de Compartilhamento */
 .share-section {
   margin-top: 3rem;
@@ -48,14 +28,23 @@
   font-family: var(--font-mono);
   font-size: 0.8rem;
   text-decoration: none;
-  padding: 4px 10px;
+  padding: 5px 10px;
   border-radius: 4px;
   border: 1px solid var(--border);
   background-color: var(--card-bg);
   color: var(--text);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
   transition: all 0.2s ease;
 }
 
+.share-icon {
+  display: block;
+  flex-shrink: 0;
+}
+
+/* Efeito Hover mantendo a harmonia com o tema */
 .share-btn:hover {
   border-color: var(--title-blue);
   color: var(--title-blue);
