@@ -126,9 +126,4 @@
   text-decoration: underline;
 }
 
-.related-post-excerpt {
-  color: var(--text);
-  font-size: 0.92rem;
-  line-height: 1.5;
-  margin: 0;
 }
