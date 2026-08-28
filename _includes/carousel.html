@@ -2,7 +2,7 @@
   <div class="carousel-slides">
     {% for img in include.images %}
       <div class="carousel-slide {% if forloop.first %}active{% endif %}">
-<img src="{{ img | relative_url }}" alt="Foto da galeria">      </div>
+<img src="{{ site.baseurl }}{{ img }}" alt="Foto da galeria">      </div>
     {% endfor %}
   </div>
   
