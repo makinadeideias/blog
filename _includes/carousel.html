@@ -1,0 +1,102 @@
+<div class="carousel-container">
+  <div class="carousel-slides">
+    {% for img in include.images %}
+      <div class="carousel-slide {% if forloop.first %}active{% endif %}">
+        <img src="{{ img | relative_url }}" alt="Foto da galeria">
+      </div>
+    {% endfor %}
+  </div>
+  
+  <div class="carousel-dots">
+    {% for img in include.images %}
+      <span class="dot {% if forloop.first %}active{% endif %}" onclick="setSlide({{ forloop.index0 }})"></span>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.carousel-container {
+  position: relative;
+  max-width: 100%;
+  margin: 1.5rem auto;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.carousel-slides {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #111;
+}
+.carousel-slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+}
+.carousel-slide.active {
+  opacity: 1;
+}
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.carousel-dots {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 10;
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.dot.active {
+  background-color: #fff;
+}
+</style>
+
+<script>
+(function() {
+  let currentIndex = 0;
+  const slides = document.querySelectorAll('.carousel-slide');
+  const dots = document.querySelectorAll('.dot');
+  const totalSlides = slides.length;
+
+  if (totalSlides === 0) return;
+
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.classList.toggle('active', i === index);
+      if (dots[i]) dots[i].classList.toggle('active', i === index);
+    });
+    currentIndex = index;
+  }
+
+  window.setSlide = function(index) {
+    showSlide(index);
+    resetInterval();
+  };
+
+  function nextSlide() {
+    let next = (currentIndex + 1) % totalSlides;
+    showSlide(next);
+  }
+
+  let slideInterval = setInterval(nextSlide, 4000); // Troca a cada 4 segundos
+
+  function resetInterval() {
+    clearInterval(slideInterval);
+    slideInterval = setInterval(nextSlide, 4000);
+  }
+})();
+</script>
