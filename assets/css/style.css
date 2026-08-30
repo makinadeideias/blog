@@ -496,3 +496,9 @@ body {
   text-decoration: none !important;
   border-bottom: 2px solid #333 !important; 
 }
+.rodape-post {
+  max-width: 800px; /* Largura máxima comum para textos de blog */
+  margin: 0 auto; /* O 'auto' é o que centraliza a caixa na tela */
+  padding: 0 20px; /* Dá um respiro nas laterais para telas de celular */
+  box-sizing: border-box;
+}
