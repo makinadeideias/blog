@@ -478,21 +478,21 @@ body {
 .menu-perfil {
   margin-top: 15px;
   display: flex;
-  gap: 20px; /* Espaço entre os links */
+  gap: 20px; 
   flex-wrap: wrap;
 }
 
 .menu-perfil a {
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.9em;
-  color: #333; /* Ajuste para a cor padrão do seu tema */
-  border-bottom: 2px solid transparent;
-  transition: border-color 0.2s ease;
+  color: #333 !important; 
+  border-bottom: 2px solid transparent !important;
+  transition: border-color 0.2s ease !important;
 }
 
-
 .menu-perfil a:hover {
+  text-decoration: none !important;
   border-bottom: 2px solid #333 !important; 
 }
