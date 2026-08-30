@@ -492,6 +492,7 @@ body {
   transition: border-color 0.2s ease;
 }
 
+
 .menu-perfil a:hover {
-  border-bottom: 2px solid #333; /* Efeito de sublinhado ao passar o mouse */
+  border-bottom: 2px solid #333 !important; 
 }
