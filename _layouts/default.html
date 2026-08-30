@@ -57,6 +57,17 @@
 
       <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
       <hr class="sep">
+
+      <script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}">{title} <small>({date})</small></a></li>',
+    noResultsText: '<li>Nenhum resultado encontrado.</li>',
+    limit: 10
+  });
+</script>
     </header>
 
     <main class="content">
