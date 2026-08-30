@@ -502,3 +502,30 @@ body {
   padding: 0 20px; /* Dá um respiro nas laterais para telas de celular */
   box-sizing: border-box;
 }
+
+.seletor-ano {
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Espaço entre o texto e a caixa */
+  font-size: 1rem;
+}
+
+.seletor-ano select {
+  padding: 8px 15px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  background-color: transparent;
+  font-size: 0.95rem;
+  color: inherit;
+  font-family: inherit;
+  outline: none;
+  cursor: pointer;
+  appearance: auto;
+  transition: border-color 0.3s;
+}
+
+.seletor-ano select:hover,
+.seletor-ano select:focus {
+  border-color: #333;
+}
