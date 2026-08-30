@@ -38,7 +38,16 @@ title: Início
     </div>
   </div>
 {% endif %}
-
+<div class="seletor-ano">
+  <label for="jump-to-year">Ir para o ano</label>
+  <select id="jump-to-year" onchange="location = this.value;">
+    <option value="">Selecione...</option>
+    {% assign posts_por_ano = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for ano in posts_por_ano %}
+      <option value="#ano-{{ ano.name }}">{{ ano.name }}</option>
+    {% endfor %}
+  </select>
+</div>
 <!-- Posts mais recentes (Listagem Completa) -->
 <section class="section-block">
   <h2 class="section-title">Posts mais recentes</h2>
