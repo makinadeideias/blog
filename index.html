@@ -9,12 +9,14 @@ title: Início
     <img src="{{ 'https://avatars.githubusercontent.com/u/244601701?v=4' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
     <div class="profile-info">
       <p class="site-bio">I read the air and write bits of my understanding.</p>
+      
       <!-- Novo Menu -->
-<nav class="menu-perfil">
-  <a href="{{ site.baseurl }}/">Blog</a>
-  <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
-  <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
-</nav>
+      <nav class="menu-perfil">
+        <a href="{{ site.baseurl }}/">Blog</a>
+        <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
+        <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
+      </nav>
+      
       <!-- Tags geradas a partir dos posts -->
       <div class="topic-tags">
         {% assign all_tags = site.tags | sort %}
@@ -27,62 +29,63 @@ title: Início
 </section>
 <hr class="sep-light">
 
-<!-- Lista Global de Tags dos Posts -->
-{% assign all_tags = site.tags | sort %}
-{% if all_tags.size > 0 %}
-  <div class="section-tags-cloud">
-    <div class="topic-tags">
-      {% for tag in all_tags %}
-        <a class="tag" href="{{ '/tags#' | append: tag[0] | relative_url }}">#{{ tag[0] }}</a>
-      {% endfor %}
-    </div>
-  </div>
-{% endif %}
-<div class="seletor-ano">
-  <label for="jump-to-year">Ir para o ano</label>
-  <select id="jump-to-year" onchange="location = this.value;">
-    <option value="">Selecione...</option>
-    {% assign posts_por_ano = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-{% for ano in posts_por_ano %}
-    <h2 id="ano-{{ ano.name }}">Ano: {{ ano.name }}</h2>  <!-- AGORA COM O ID -->
-
-    <ul>
-      {% for post in ano.items %}      <option value="#ano-{{ ano.name }}">{{ ano.name }}</option>
-    {% endfor %}
-  </select>
-</div>
-<!-- Posts mais recentes (Listagem Completa) -->
+<!-- Posts mais recentes agrupados por ano -->
 <section class="section-block">
   
   <h2 class="section-title">Posts mais recentes</h2>
 
-  <ul class="posts-list">
-    {% for post in site.posts %}
-      <li class="post-entry">
-        <div class="post-meta">
-          <time>{{ post.date | date: "%d/%m/%Y" }}</time>
-        </div>
+  <!-- Seletor de Ano -->
+  <div class="seletor-ano">
+    <label for="jump-to-year">Ir para o ano</label>
+    <select id="jump-to-year" onchange="location = this.value;">
+      <option value="">Selecione...</option>
+      {% assign posts_por_ano = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for ano in posts_por_ano %}
+        <option value="#ano-{{ ano.name }}">{{ ano.name }}</option>
+      {% endfor %}
+    </select>
+  </div>
 
-        <h3 class="entry-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h3>
+  <div class="posts-list">
+    <!-- Loop que divide os posts por ano -->
+    {% assign posts_por_ano = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for ano in posts_por_ano %}
+      
+      <!-- O alvo (ID) para onde o seletor vai pular -->
+      <h3 id="ano-{{ ano.name }}" style="margin-top: 40px; border-bottom: 1px solid #eee; padding-bottom: 10px;">{{ ano.name }}</h3>
 
-        <!-- Tags abaixo do título -->
-        {% if post.tags.size > 0 %}
-          <div class="post-card-tags">
-            {% for tag in post.tags %}
-              <a class="tag" href="{{ '/tags#' | append: tag | relative_url }}">#{{ tag }}</a>
-            {% endfor %}
-          </div>
-        {% endif %}
+      <ul>
+        <!-- Loop dos posts dentro de cada ano -->
+        {% for post in ano.items %}
+          <li class="post-entry">
+            <div class="post-meta">
+              <time>{{ post.date | date: "%d/%m/%Y" }}</time>
+            </div>
 
-        <p class="entry-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 35 }}
-          <a class="read-more-inline" href="{{ post.url | relative_url }}">LER MAIS</a>
-        </p>
-      </li>
+            <h4 class="entry-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h4>
+
+            <!-- Tags abaixo do título do post -->
+            {% if post.tags.size > 0 %}
+              <div class="post-card-tags">
+                {% for tag in post.tags %}
+                  <a class="tag" href="{{ '/tags#' | append: tag | relative_url }}">#{{ tag }}</a>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            <p class="entry-excerpt">
+              {{ post.excerpt | strip_html | truncatewords: 35 }}
+              <a class="read-more-inline" href="{{ post.url | relative_url }}">LER MAIS</a>
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+      
     {% else %}
-      <li class="post-entry"><p>Nenhum artigo publicado no momento.</p></li>
+      <p>Nenhum artigo publicado no momento.</p>
     {% endfor %}
-  </ul>
+  </div>
+
 </section>
