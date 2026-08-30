@@ -14,7 +14,7 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 ### Capítulos de Livros e textos em geral
 * **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
 
-## Entrevistas
+### Entrevistas
 * **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
 
 ### Lives
