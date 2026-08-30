@@ -475,3 +475,23 @@ body {
     gap: 1rem;
   }
 }
+.menu-perfil {
+  margin-top: 15px;
+  display: flex;
+  gap: 20px; /* Espaço entre os links */
+  flex-wrap: wrap;
+}
+
+.menu-perfil a {
+  text-decoration: none;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  color: #333; /* Ajuste para a cor padrão do seu tema */
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.menu-perfil a:hover {
+  border-bottom: 2px solid #333; /* Efeito de sublinhado ao passar o mouse */
+}
