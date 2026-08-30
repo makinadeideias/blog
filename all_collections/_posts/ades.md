@@ -1,0 +1,25 @@
+---
+layout: post
+title: Santiago - 66 a 83
+date: 2012-10-06 10:00:00
+categories: [livre]
+---
+
+66- O rio Mapocho tem a cara do Arrudas, porém com menos água; e rola, canalizado pelo centro da cidade;
+67- Os campi universitários tem os prédios espalhados pela cidades;
+68- Muuuuuuuuita gente fica deitada na praça na hora do almoço;
+69- Tem muuuuitas galerias por aqui. Galerias comerciais com todo tipo de loja. Muito legal!!
+70- Há muitos quarteirões fechados no centrao. Isso facilita o deslocamento de pessoas. Os chilenos parecem andar muuuuuuito a pé!
+71- “La flor y nata de la tierra”, “país del frío”, “donde termina la tierra” y “gaviota”. Todos são significados do  vocábulo Chile segundo as diferentes línguas indígenas.
+72- Após o terremoto de 2010 que ocorreu às 3:33 e os 33 mineiros que ficaram presos na mina, o numero 33 é considerado maldito no Chile;
+73- No metrô há 5 linhas: Vermelha com 17 km e 27 estacoes, Verde com 16 km e 22 estacoes, Azul claro com 6 estaçoes, Azul escuro com 22 estacoes e a Amarela com 22 estacoes;
+74- Os trens passam mais ou menos a cada minuto e tem hora que tem tem a cada 30 segundos nas estaçoes mais cheias;
+75- A ilha de Páscoa era chamada de “umbigo do mundo “ pelos Rapa Nui, moradores de lá;
+76- O Cerro San Cristóbal não tem um San Cristóbal no pico, tem uma virgem Maria;
+77- Nunca tente subir o Cerro pelas trilhas. Isso pode levar horas, no meu caso 3 e andando de mãos no chão, arranhando braços e pernas e passando por caminhos com alto grau de dificuldade e com avalanches de pedras. Mas conseguimos!
+78- A vista do Cerro San Cristóbal é a melhor da cidade, pois embora seja muito alto e bem selvagem o cerro (morro) fica perto do centro da cidade;
+79- Na TV deles há programas sobre futebol mundial, futebol argentino e futebol uruguaio. Ou seja, há muuuuito futebol;
+80- Aqui ainda há quadrinhos do Condorito, um personagem que eu lia muito no Brasil;
+81- As pessoas usam videogames e celulares com jogos e TV no metrô, nos bares, nas ruas sem a preocupação de serem roubados;
+82- Em Valparaíso há milhares de casas nas encostas e morros. Mas não é favela! Isso se deu por que a área plana da cidade é muito pequena e foi tomada pelos prédios oficiais e da Marinha;
+83- Pode-se confiar nos mapas turísticos. Funcionam!
