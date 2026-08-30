@@ -9,7 +9,12 @@ title: Início
     <img src="{{ 'https://avatars.githubusercontent.com/u/244601701?v=4' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
     <div class="profile-info">
       <p class="site-bio">I read the air and write bits of my understanding.</p>
-      
+      <!-- Novo Menu -->
+<nav class="menu-perfil">
+  <a href="{{ site.baseurl }}/">Blog</a>
+  <a href="{{ site.baseurl }}/midia-e-publicacoes/">Mídia e Publicações</a>
+  <a href="URL_DO_SEU_CANAL_NO_YOUTUBE" target="_blank" rel="noopener noreferrer">YouTube</a>
+</nav>
       <!-- Tags geradas a partir dos posts -->
       <div class="topic-tags">
         {% assign all_tags = site.tags | sort %}
