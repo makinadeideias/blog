@@ -43,18 +43,17 @@ title: Início
   <select id="jump-to-year" onchange="location = this.value;">
     <option value="">Selecione...</option>
     {% assign posts_por_ano = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  {% for ano in posts_por_ano %}
+{% for ano in posts_por_ano %}
     <h2 id="ano-{{ ano.name }}">Ano: {{ ano.name }}</h2>  <!-- AGORA COM O ID -->
 
     <ul>
-      {% for post in ano.items %}
-      <option value="#ano-{{ ano.name }}">{{ ano.name }}</option>
+      {% for post in ano.items %}      <option value="#ano-{{ ano.name }}">{{ ano.name }}</option>
     {% endfor %}
   </select>
 </div>
 <!-- Posts mais recentes (Listagem Completa) -->
 <section class="section-block">
-
+  
   <h2 class="section-title">Posts mais recentes</h2>
 
   <ul class="posts-list">
