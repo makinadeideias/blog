@@ -22,7 +22,7 @@ layout: default
     {% endif %}
   </header>
     {{ content }}
-  </div>
+
 
   <!-- Botões de Compartilhamento -->
   <section class="share-section">
@@ -64,7 +64,6 @@ layout: default
     <ul class="related-posts-list">
       {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
       {% assign random_posts = other_posts | sample: 3 %}
-      
       {% for post in random_posts %}
         <li class="related-post-item">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -74,7 +73,7 @@ layout: default
   </section>
 
   <div class="post-back">
-    <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
+    <a href="{{ '/' | relative_url }}">&larr; Voltar para o blog</a>
   </div>
 </article>
 <div class="rodape-post">
