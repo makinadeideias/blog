@@ -58,22 +58,26 @@ layout: default
     </div>
   </section>
 
-  <!-- Seção Leia Também -->
-  <section class="related-posts-section">
-    <h2 class="related-title">Leia também</h2>
-    <ul class="related-posts-list">
-      {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
-      {% assign random_posts = other_posts | sample: 3 %}
-      
-      {% for post in random_posts %}
-        <li class="related-post-item">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
+ <article class="post"> <!-- Pode ser <main> ou <div class="container"> dependendo do tema -->
+  
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+  
+  <div class="conteudo-do-post">
+    {{ content }}
+  </div>
+
+  <!-- MOVA AS SEÇÕES PARA CÁ, ANTES DE FECHAR A TAG PRINCIPAL -->
+  <hr>
+  <section class="compartilhar">
+    <span>COMPARTILHAR:</span>
+    <!-- botões de redes sociais -->
   </section>
 
-  <div class="post-back">
-    <a href="{{ '/' | relative_url }}">&larr; Voltar para as notas</a>
-  </div>
-</article>
+  <section class="leia-tambem">
+    <h2>LEIA TAMBÉM</h2>
+    <!-- lista de posts -->
+  </section>
+
+</article> <!-- Fim do contêiner do post -->
