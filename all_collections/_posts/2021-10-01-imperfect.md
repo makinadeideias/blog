@@ -26,7 +26,7 @@ I’ve heard all kind of noise
 I’ve escaped tons of hooks  
 I’ve spoken on every tune of voice  
 
-I’ve spent all that is money  
+I’ve spent all of my money  
 I’ve bought sex and cars  
 I’ve tried salt and honey  
 I’ve drunk, I’ve had cigars  
@@ -37,24 +37,22 @@ I’ve crossed sea and river
 I’ve followed tracks and plans  
 
 I’ve studied all those religions  
-I’ve sang all Beatles’ songs  
+I’ve sung all Beatles’ songs  
 I’m lost in a nest of pigeons  
-Possessions, temptation wrongs  
+Possessions, temptation and wrongs  
 
 I’ve acquired great experience  
 I’ve learnt a lot to say  
 My mind stays in turbulence  
 The world is in advanced decay  
 
-Nor money means nothing indeed  
-Neither does a crown, golden cap  
+Money means nothing indeed  
+Neither does a crown or a cap  
 As matter does not grow seed  
-The world is a piece of crap  
-
- 
+The world is an empty trap  
 
 I’ve met all human kind  
 I’ve licked soil and soap  
-‘cause men is deaf and blind  
-Definitely  I’ve lost my hope
+‘cause men are deaf and blind  
+Definitely I’ve lost my hope
 
