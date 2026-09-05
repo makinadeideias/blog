@@ -17,7 +17,7 @@ Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A e
 
 Mas como voces sabem, bêbados dormem rápido e dormem pesado. Cesar, não. Os minutos passavam lentamento mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma cerimõnia com hora marcada. Era como um ritual pontualissimo de arrastar de pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. 
 
-![alt text](chains.jpeg)
+<img src="https://github.com/makinadeideias/blog/blob/main/assets/images/chains.jpeg?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
 Levantou, bebeu água na cozinha e mesmo de lá ainda ouvia os últimos acordes macabros do arrastar lento e pesado das correntes. Cesar sentiu uma energia ruim tomar conta de seu corpo e o medo fazer suas mãos tremerem. Sentia-se mal e rapidamente voltou pra cama. Seu corpo estava tomado pelo medo. O barulho durou ainda alguns minutos e Cesar sentiu-se tonto como se seu cérebro houvesse sido sacodido por um furacão. 
 
