@@ -13,7 +13,7 @@ Cesar foi no terreiro, fez novena, conversou com pessoas espiritualizadas e proc
 
 Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A esperança dele era de que também ouvissem o som. Se assim fosse, ele aceitaria que náo estava louco. Jantar terminou e todos foram pros seus quartos. Uns mais bêbados que outros. E bêbato tem sono pesado. Todos dormiram rapidamente. Cesar, não. Em alerta olhava pro teto de seu quarto com um a certeza de que aquela noite a coisa barulhenta nao mais seria exclusividade de sua percepção. 
 
-Os minutos passavam lentamento mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma cerimõnia com hora marcada. Era como um ritual pontualissimo de arrastar pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. 
+Os minutos passavam lentamento mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma cerimõnia com hora marcada. Era como um ritual pontualíssimo de arrastar pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. 
 
 <img src="https://github.com/makinadeideias/blog/blob/main/assets/images/chains.jpeg?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
