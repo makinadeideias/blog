@@ -5,7 +5,7 @@ date: 2026-09-05 10:18:00
 categories: [livre, conto, pensando]
 ---
 
-Nunca havia tido tanto medo  na vida. Do alto de seus 40 anos, Cesar era até bem corajoso, mas daquela vez era diferente. Seu corpo doía, seus olhos ardiam e sua boca estava seca. Um suor frio escapava de suas têmporas enquanto ele arquejava em silêncio na cama, virando-se de um lado para o outro sem conseguir pregar os olhos. Ainda sentia o gosto do jantar da noite anterior. 
+Nunca havia tido tanto medo  na vida. Do alto de seus 40 anos, Cesar era até bem corajoso, mas daquela vez era diferente. Seu corpo doía, seus olhos ardiam e sua boca estava seca. Um suor frio escapava de suas têmporas enquanto ele arquejava em silêncio na cama, virando-se de um lado para o outro sem conseguir pregar os olhos. Ainda sentia o gosto do jantar da noite anterior. E medo.
 
 Toda noite era a mesma coisa. Há pelo menos 3 anos ele era acordado no mesmo horário e pela mesma razão. Era assustador o fato de que seus vizinhos não percebiam nada, ninguém sabia de nada, mas ele ouvia sempre, todo dia às 3:30 da manhã. Era o mesmo som, aspero, ferreo, lento e arrastado. Já fazia tempos que nao sabia o que era dormir. Mas aquele som o tirou do centro e o jogou num estado de insonia constante, fazendo com que ele ja se deitasse sofrendo pelo som que sabia viria mais tarde, no meio da madrugada levando seu sono e sua sanidade. 
 
