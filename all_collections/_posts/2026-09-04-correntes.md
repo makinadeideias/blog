@@ -15,6 +15,8 @@ Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A e
 
 Mas como voces sabem, bebados dormem rapido e dormem pesado. Cesar, nao. Os minutos viraram horas e logo chegou a hora fatal: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma cerimonia com hora marcada. Pontualissimo arrastar de pesos e metais enferrujados que levavam Cesar para o fundo do poço e da privacao do sono. 
 
+![alt text](chains.png)
+
 Levantou, bebeu água na cozinha e mesmo de lá ainda ouvia os ultimos acordes macabros do arrastar lento e pesado das correntes. Cesar sentiu uma energia ruim tomar conta de seu corpo e o medo fazer suas maos tremerem. Sentia-se mal e rapidamente voltou pra cama, desta vez decidido a acabar com aquela sofrida ladainha. 
 
 Quando o dia amanheceu dispensou seus amigos e em seguida ligou pra imobiliaria e colocou sua casa à venda por milhares de reais a menos que valia. Pra ele o mais importante era se livrar daquele pesadelo enferrujado e que o perseguia todas as noites. Em pouco tempo a casa foi vendida e Cesar mudou-se pra um apartamento alugado. O comprador da casa era Juan, um artista argentino que já morava por ali há alguns anos. 
