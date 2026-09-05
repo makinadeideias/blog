@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quem tem medo sai da frente
-date: 2026-09-02 10:18:00
+date: 2026-09-05 10:18:00
 categories: [livre, conto, pensando]
 ---
 
