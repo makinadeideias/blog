@@ -11,9 +11,9 @@ Toda noite era a mesma coisa. Há pelo menos 3 anos ele era acordado no mesmo ho
 
 Cesar foi no terreiro, fez novena, conversou com pessoas espiritualizadas e procurou uma terapeuta especializada em hipnose. Nada dava jeito. Sua casa foi benzida, envolvida em fumaça de sete velas, revoada por pombas brancas e pintada com cal virgem. Nada. O maldito som arrastava Cesar para o mais profundo desespero todas as noites, sem excecoes. Sua última esperança era que o novo remédio receitado pelo psiquiatra. 
 
-Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A esperança dele era de que também ouvissem o som. Se assim fosse, aceitaria que náo estava louco. O jantar terminou e todos foram pros seus quartos. Uns mais bêbados que outros. E bêbado tem sono pesado. Todos dormiram rapidamente mas Cesar, não. Em alerta olhava pro teto de seu quarto com um a certeza de que aquela noite a coisa barulhenta nao mais seria exclusividade de sua percepção. 
+Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A esperança dele era de que também ouvissem o som. Se assim fosse, aceitaria que náo estava louco. O jantar terminou e todos foram pros seus quartos. Uns mais bêbados que outros. E bêbado tem sono pesado. Todos dormiram rapidamente. Cesar, não. Em alerta olhava pro teto de seu quarto com a certeza de que aquela noite a coisa barulhenta não mais seria exclusividade de sua percepção. 
 
-Os minutos passavam lentamento mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma macabra cerimõnia com hora marcada. Era como um ritual pontualíssimo de arrastar pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. Cesar estava congelado de medo.
+Os minutos passavam lentamente mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma macabra cerimõnia com hora marcada. Era como um ritual pontualíssimo de arrastar pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. Cesar estava congelado de medo.
 
 <img src="https://github.com/makinadeideias/blog/blob/main/assets/images/chains.jpeg?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
