@@ -2,7 +2,7 @@
 layout: post
 title: Quem tem medo sai da frente
 date: 2026-09-05 10:18:00
-categories: [livre, conto, pensando]
+categories: [livre, conto, pensando] 
 ---
 
 Nunca havia tido tanto medo  na vida. Do alto de seus 40 anos, Cesar era até bem corajoso, mas daquela vez era diferente. Seu corpo doía, seus olhos ardiam e sua boca estava seca. Um suor frio escapava de suas têmporas enquanto ele arquejava em silêncio na cama, virando-se de um lado para o outro sem conseguir pregar os olhos. Ainda sentia o gosto do jantar da noite anterior. E medo.
