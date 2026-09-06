@@ -4,6 +4,7 @@ title: Quem tem medo sai da frente
 date: 2026-09-05 10:18:00
 categories: [livre, conto, pensando] 
 ---
+<img src="https://github.com/makinadeideias/blog/blob/main/assets/images/chains.jpeg?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
 Nunca havia tido tanto medo  na vida. Do alto de seus 40 anos, Cesar era até bem corajoso, mas daquela vez era diferente. Seu corpo doía, seus olhos ardiam e sua boca estava seca. Um suor frio escapava de suas têmporas enquanto ele arquejava em silêncio na cama, virando-se de um lado para o outro sem conseguir pregar os olhos. Ainda sentia o gosto do jantar da noite anterior. E medo.
 
@@ -14,8 +15,6 @@ Cesar foi no terreiro, fez novena, conversou com pessoas espiritualizadas e proc
 Certa noite convidou uns amigos para dormir em sua casa depois de um jantar. A esperança dele era de que também ouvissem o som. Se assim fosse, aceitaria que náo estava louco. O jantar terminou e todos foram pros seus quartos. Uns mais bêbados que outros. E bêbado tem sono pesado. Todos dormiram rapidamente. Cesar, não. Em alerta olhava pro teto de seu quarto com a certeza de que aquela noite a coisa barulhenta não mais seria exclusividade de sua percepção. 
 
 Os minutos passavam lentamente, mas a hora fatal chegou: 3:30! Infalível! O som de pesadas correntes sendo arrastadas voltou a assombrar o incrédulo arquiteto. Parecia uma macabra cerimônia com hora marcada. Era como um ritual pontualíssimo arrastando pesos e metais enferrujados que levaram Cesar para o fundo do poço e da privação do sono. Cesar estava congelado de medo.
-
-<img src="https://github.com/makinadeideias/blog/blob/main/assets/images/chains.jpeg?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
 Após alguns minutos se recompõs, levantou e foi beber água na cozinha. Mesmo de lá ainda ouvia os últimos acordes dos pesadas correntes. Cesar sentiu uma energia ruim tomar conta de seu corpo e o medo fez suas mãos tremerem. Sentia-se mal e rapidamente voltou pra cama. Seu corpo estava tomado pelo medo e seus olhos aberto de pavor. O barulho durou ainda alguns minutos e Cesar sentiu-se tonto como se seu cérebro tivesse sido sacodido por um furacão.  
 
