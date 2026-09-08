@@ -23,4 +23,4 @@ title: Bio
 
 
 
-<b>Flávio Martins da Silva</b> é professor de língua inglesa na rede municipal de Contagem, mestre em Educação Tecnológica e doutorando em Estudos de Linguagens no CEFET-MG, onde pesquisa iniciativas de letramento digital em inteligência artificial para integrar tecnologia ao ensino. Como criador de projetos educacionais e de materiais de Educação Digital Midiática, ele investiga como a inteligência artificial, a engenharia de prompts e os multiletramentos transformam o aprendizado e a sala de aula atual. Flávio também escreve textos literários e publica neste blog.
+<b>Flávio Martins da Silva</b> é pai da Malu, professor de língua inglesa na rede municipal de Contagem, mestre em Educação Tecnológica e doutorando em Estudos de Linguagens no CEFET-MG, onde pesquisa iniciativas de letramento digital em inteligência artificial para integrar tecnologia ao ensino. Como criador de projetos educacionais e de materiais de Educação Digital Midiática, ele investiga como a inteligência artificial, a engenharia de prompts e os multiletramentos transformam o aprendizado e a sala de aula atual. Flávio também escreve textos literários e publica neste blog.
