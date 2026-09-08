@@ -1,23 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-BR" data-theme="light">
+  <style>
+  /* Aplica a fonte monoespaçada em todos os elementos do site */
+  body, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button {
+    font-family: "Courier New", Courier, ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace !important;
+  }
+</style>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   
-  <style>
-    /* 1. Aplica a fonte monoespaçada em todos os elementos do site */
-    body, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button {
-      font-family: "Courier New", Courier, ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace !important;
-    }
-
-    /* 2. Clareia o fundo do Dark Mode e ajusta o contraste do texto */
-    html[data-theme="dark"] body {
-      background-color: #262626 !important; /* Tom de cinza mais suave (menos preto) */
-      color: #e0e0e0 !important; /* Branco levemente acinzentado para leitura confortável */
-    }
-  </style>
-
   <script>
     (function() {
       const savedTheme = localStorage.getItem('theme');
