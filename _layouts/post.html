@@ -65,7 +65,7 @@ layout: default
     <h2 class="related-title">Leia também</h2>
     <ul class="related-posts-list">
       {% assign other_posts = site.posts | where_exp: "item", "item.url != page.url" %}
-      {% assign random_posts = other_posts | sample: 3 %}
+      {% assign random_posts = other_posts | sample: 4 %}
       {% for post in random_posts %}
         <li class="related-post-item">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
