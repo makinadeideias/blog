@@ -16,7 +16,6 @@ title: Bio
         <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
         <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
       </nav>
-      </nav>
     </div>
   </div>
 </section>
