@@ -9,7 +9,7 @@ future: false
 
 timezone: America/Sao_Paulo
 markdown: kramdown
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 plugins:
   - jekyll-seo-tag
