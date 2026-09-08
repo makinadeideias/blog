@@ -12,8 +12,10 @@ title: Bio
       <!-- Novo Menu -->
       <nav class="menu-perfil">
         <a href="{{ site.baseurl }}/cv">Bio</a>
+        <a href="{{ site.baseurl }}">Blog</a>
         <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
         <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
+      </nav>
       </nav>
     </div>
   </div>
