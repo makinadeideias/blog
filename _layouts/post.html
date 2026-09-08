@@ -13,22 +13,39 @@ layout: default
     <hr>
   </nav>
 
-<section id="bio">
-  <section id="img-wrapper">
-    <img src="{{site.data.author.dp}}" alt="" />
-  </section>
-  <section id="bio-wrapper">
-    <div id="text-wrapper">{{site.data.author.description}}</div>
-    <div id="social-wrapper">
-      {% for i in site.data.author.contact %}
-      <a href="{{i.url}}" target="_blank">
-        <img src="{{site.baseurl}}/assets/icons/{{i.title}}.png" alt="" />
+  <!-- Botões de Compartilhamento -->
+  <section class="share-section">
+    <span class="share-title">Compartilhar:</span>
+    <div class="share-buttons">
+      <!-- WhatsApp -->
+      <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-wa" 
+         aria-label="Compartilhar no WhatsApp"
+         title="WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
       </a>
-      {%endfor%}
+
+      <!-- E-mail -->
+      <a href="mailto:?subject={{ page.title | url_encode }}&body=Confira%20este%20artigo:%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" 
+         class="share-btn share-mail" 
+         aria-label="Compartilhar via E-mail"
+         title="E-mail">
+        <i class="fa-solid fa-envelope"></i>
+      </a>
+
+      <!-- Instagram -->
+      <a href="https://instagram.com" 
+         target="_blank" 
+         rel="noopener noreferrer" 
+         class="share-btn share-ig" 
+         aria-label="Instagram"
+         title="Instagram">
+        <i class="fa-brands fa-instagram"></i>
+      </a>
     </div>
   </section>
-</section>
-
 
 <article class="post-single">
   <header class="post-header">
