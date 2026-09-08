@@ -1,16 +1,48 @@
 <!DOCTYPE html>
 <html lang="pt-BR" data-theme="light">
-  <style>
-  /* Aplica a fonte monoespaçada em todos os elementos do site */
-  body, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button {
-    font-family: "Courier New", Courier, ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace !important;
-  }
-</style>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   
+  <style>
+    /* 1. Aplica a fonte monoespaçada em todos os elementos do site */
+    body, h1, h2, h3, h4, h5, h6, p, a, li, span, div, input, button {
+      font-family: "Courier New", Courier, ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace !important;
+    }
+
+    /* =========================================
+       2. CORES DO DARK MODE
+       ========================================= */
+    
+    /* Fundo e texto geral (Bio, textos normais) */
+    html[data-theme="dark"] body {
+      background-color: #222222 !important; /* Fundo cinza escuro */
+      color: #e8e8e8 !important; /* Branco suave para não cansar a vista */
+    }
+
+    html[data-theme="dark"] h1,
+    html[data-theme="dark"] h2,
+    html[data-theme="dark"] h3,
+    html[data-theme="dark"] p {
+      color: #e8e8e8 !important;
+    }
+
+    /* Links, Menu e Títulos dos Posts (Azul claro) */
+    html[data-theme="dark"] a,
+    html[data-theme="dark"] .note-title,
+    html[data-theme="dark"] .menu-perfil a {
+      color: #6699ff !important; 
+    }
+
+    /* Datas e elementos secundários (Cinza médio) */
+    html[data-theme="dark"] .note-date,
+    html[data-theme="dark"] time,
+    html[data-theme="dark"] .section-title {
+      color: #a0a0a0 !important;
+    }
+  </style>
+
   <script>
     (function() {
       const savedTheme = localStorage.getItem('theme');
