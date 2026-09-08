@@ -1,76 +1,18 @@
----
-layout: default
-title: Início
----
 
-<!-- Seção Perfil (Foto + Frase + Tags Dinâmicas) -->
-<section class="profile-section">
-  <div class="profile-header">
-    <img src="{{ 'https://avatars.githubusercontent.com/u/244601701?v=4' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
-    <div class="profile-info">
-      <p class="site-bio">I read the air and write bits of my understanding.</p>
-      <!-- Novo Menu -->
-<nav class="menu-perfil">
-  <a href="{{ site.baseurl }}/">Blog</a>
-  <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
-  <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
-</nav>
-      <!-- Tags geradas a partir dos posts -->
-      <div class="topic-tags">
-        {% assign all_tags = site.tags | sort %}
-        {% for tag in all_tags %}
-          <a class="tag" href="{{ '/tags#' | append: tag[0] | relative_url }}">#{{ tag[0] }}</a>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-<hr class="sep-light">
 
-<!-- Lista Global de Tags dos Posts -->
-{% assign all_tags = site.tags | sort %}
-{% if all_tags.size > 0 %}
-  <div class="section-tags-cloud">
-    <div class="topic-tags">
-      {% for tag in all_tags %}
-        <a class="tag" href="{{ '/tags#' | append: tag[0] | relative_url }}">#{{ tag[0] }}</a>
-      {% endfor %}
-    </div>
-  </div>
-{% endif %}
-
-<!-- Posts mais recentes (Listagem Completa) -->
-<section class="section-block">
-  
-  <h2 class="section-title">Posts mais recentes</h2>
-
-  <ul class="posts-list">
+<div class="notes-container">
+  <h2>Recent notes</h2>
+  <ul class="notes-list">
     {% for post in site.posts %}
-      <li class="post-entry">
-        <div class="post-meta">
-          <time>{{ post.date | date: "%d/%m/%Y" }}</time>
-        </div>
-
-        <h3 class="entry-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h3>
-
-        <!-- Tags abaixo do título -->
-        {% if post.tags.size > 0 %}
-          <div class="post-card-tags">
-            {% for tag in post.tags %}
-              <a class="tag" href="{{ '/tags#' | append: tag | relative_url }}">#{{ tag }}</a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        <p class="entry-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 35 }}
-          <a class="read-more-inline" href="{{ post.url | relative_url }}">LER MAIS</a>
-        </p>
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="note-date">
+          {{ post.date | date: "%d %b %Y" }}
+        </time>
+        <a href="{{ post.url | relative_url }}" class="note-title">
+          {{ post.title }}
+        </a>
       </li>
-    {% else %}
-      <li class="post-entry"><p>Nenhum artigo publicado no momento.</p></li>
     {% endfor %}
   </ul>
-</section>
+</div>
+
