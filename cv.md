@@ -15,13 +15,6 @@ title: Bio
         <a href="{{ site.baseurl }}/midia-e-publicacoes/">Publicações</a>
         <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
       </nav>
-      <!-- Tags geradas a partir dos posts -->
-      <div class="topic-tags">
-        {% assign all_tags = site.tags | sort %}
-        {% for tag in all_tags %}
-          <a class="tag" href="{{ '/tags#' | append: tag[0] | relative_url }}">#{{ tag[0] }}</a>
-        {% endfor %}
-      </div>
     </div>
   </div>
 </section>
