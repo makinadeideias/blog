@@ -529,3 +529,47 @@ body {
 .seletor-ano select:focus {
   border-color: #333;
 }
+/* Container principal com a cor de fundo cinza claro */
+.notes-container {
+  font-family: "Courier New", Courier, monospace; /* Fonte monoespaçada */
+  background-color: #f4f6f6;
+  padding: 2rem;
+  max-width: 800px;
+}
+
+.notes-container h2 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+/* Remove as bolinhas padrão da lista */
+.notes-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Flexbox para alinhar data e título lado a lado */
+.notes-list li {
+  display: flex;
+  margin-bottom: 1.2rem;
+  align-items: baseline;
+}
+
+/* Coluna 1: Data */
+.note-date {
+  width: 140px; /* Mantém a largura fixa para a primeira coluna */
+  flex-shrink: 0;
+  color: #888;
+}
+
+/* Coluna 2: Título do Post */
+.note-title {
+  color: #8b3a43; /* Tom avermelhado escuro, como na imagem */
+  text-decoration: none;
+}
+
+.note-title:hover {
+  text-decoration: underline;
+}
