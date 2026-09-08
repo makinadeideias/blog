@@ -49,3 +49,53 @@ title: Início
   </ul>
 
 </section>
+
+<!-- CSS Exclusivo para a lista de posts -->
+<style>
+  /* Container da lista com fonte monoespaçada */
+  .notes-container {
+    font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "Courier New", monospace;
+    margin-top: 2rem;
+  }
+
+  /* Título da seção */
+  .notes-container h2 {
+    font-size: 1.2rem;
+    color: #333; /* Cor escura do título */
+    margin-bottom: 1.5rem;
+  }
+
+  /* Remoção das bolinhas e margens da lista padrão */
+  .notes-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Flexbox para colocar data e título na mesma linha */
+  .notes-list li {
+    display: flex;
+    margin-bottom: 1.2rem;
+    align-items: baseline; /* Alinha o texto pela base da fonte */
+  }
+
+  /* Estilo da Data (Primeira Coluna) */
+  .note-date {
+    color: #999999; /* Tom de cinza idêntico ao da imagem */
+    min-width: 110px; /* Largura mínima para a data não ser esmagada */
+    margin-right: 25px; /* ESPAÇO entre a data e o título */
+    flex-shrink: 0; 
+  }
+
+  /* Estilo do Título (Segunda Coluna) */
+  .note-title {
+    color: #8b3a43; /* Tom de vinho/bordô idêntico ao da imagem */
+    text-decoration: none !important; /* REMOVE o sublinhado dos links */
+  }
+
+  /* Efeito opcional ao passar o mouse por cima do título (sem sublinhado) */
+  .note-title:hover {
+    text-decoration: none !important;
+    opacity: 0.8; /* Apenas deixa levemente transparente para mostrar que é clicável */
+  }
+</style>
