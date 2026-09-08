@@ -528,10 +528,15 @@ body {
 .seletor-ano select:hover,
 .seletor-ano select:focus {
   border-color: #333;
-}
-.bio-content p {
+}/* Estilização dos parágrafos da bio */
+  .bio-content p {
     font-size: 1.1rem;
     line-height: 1.7;
     margin-bottom: 1.5rem;
-    text-align: justify; /* <-- Este é o código que justifica o texto */
+    text-align: justify;
+    
+    /* Hifenização automática para evitar buracos no texto justificado */
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
   }
