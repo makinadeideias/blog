@@ -22,4 +22,4 @@ title: Bio
 
 
 
-Sergio Spagnuolo is a Brazilian journalist, media consultant, entrepreneur and 2025-26 JSK Latin American Fellow at Stanford University, where he created the Journalism Relay Project, a knowledge-transfer initiative to help journalists reduce structural dependence on Big Tech. As director and co-founder of Nucleo Jornalismo, he leads an award-winning news organization that investigates how digital technology and artificial intelligence shape society.
+"Flávio Martins da Silva é professor de língua inglesa na rede municipal de Contagem, mestre em Educação Tecnológica e doutorando em Estudos de Linguagens no CEFET-MG, onde pesquisa iniciativas de letramento digital em inteligência artificial para integrar tecnologia ao ensino. Como criador de projetos educacionais e de materiais de Educação Digital Midiática, ele investiga como a inteligência artificial, a engenharia de prompts e os multiletramentos transformam o aprendizado e a sala de aula atual. Flávio também escreve textos literários e publica neste blog."
