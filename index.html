@@ -65,11 +65,12 @@ title: Início
     margin-bottom: 1.5rem;
   }
 
-  /* Remoção das bolinhas e margens da lista padrão */
+  /* Remoção das bolinhas, margens e REDUÇÃO da fonte em 15% */
   .notes-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-size: 85%; /* Reduz o tamanho da fonte da lista inteira */
   }
 
   /* Flexbox para colocar data e título na mesma linha */
@@ -81,21 +82,21 @@ title: Início
 
   /* Estilo da Data (Primeira Coluna) */
   .note-date {
-    color: #999999; /* Tom de cinza idêntico ao da imagem */
-    min-width: 110px; /* Largura mínima para a data não ser esmagada */
-    margin-right: 25px; /* ESPAÇO entre a data e o título */
+    color: #999999; /* Tom de cinza */
+    min-width: 100px; /* Ajustado levemente para a nova proporção da fonte */
+    margin-right: 25px; /* ESPAÇO entre a data e o título mantido */
     flex-shrink: 0; 
   }
 
   /* Estilo do Título (Segunda Coluna) */
   .note-title {
-    color: #8b3a43; /* Tom de vinho/bordô idêntico ao da imagem */
+    color: #0056b3; /* Tom de azul igual ao da imagem */
     text-decoration: none !important; /* REMOVE o sublinhado dos links */
   }
 
   /* Efeito opcional ao passar o mouse por cima do título (sem sublinhado) */
   .note-title:hover {
     text-decoration: none !important;
-    opacity: 0.8; /* Apenas deixa levemente transparente para mostrar que é clicável */
+    opacity: 0.8; 
   }
 </style>
