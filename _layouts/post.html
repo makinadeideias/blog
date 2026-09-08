@@ -4,6 +4,7 @@ layout: default
 
 {% include bio.html %}
 
+
   <!-- NAVEGAÇÃO --><hr>
   <nav class="site-nav">
     <a href="#">BIO</a>
@@ -11,6 +12,22 @@ layout: default
     <a href="#">Nada</a>
     <hr>
   </nav>
+
+<section id="bio">
+  <section id="img-wrapper">
+    <img src="{{site.data.author.dp}}" alt="" />
+  </section>
+  <section id="bio-wrapper">
+    <div id="text-wrapper">{{site.data.author.description}}</div>
+    <div id="social-wrapper">
+      {% for i in site.data.author.contact %}
+      <a href="{{i.url}}" target="_blank">
+        <img src="{{site.baseurl}}/assets/icons/{{i.title}}.png" alt="" />
+      </a>
+      {%endfor%}
+    </div>
+  </section>
+</section>
 
 
 <article class="post-single">
