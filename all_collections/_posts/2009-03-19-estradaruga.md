@@ -6,19 +6,19 @@ categories: [livre]
 ---
 
 
-Toda estrada
-É uma cicatriz
-No meio 
-do mapa
+Toda estrada  
+É uma cicatriz 
+No meio  
+do mapa 
 
-Viajar 
-É transformar
-A cicatriz
-Em caminho
+Viajar  
+É transformar  
+A cicatriz  
+Em caminho  
 
-É melhor ir
-Que chegar
-
+É melhor ir  
+Que chegar  
+  
 @ipoemas
 
 
