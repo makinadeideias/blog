@@ -8,16 +8,13 @@ categories: [livre]
 
 Toda estrada  
 É uma cicatriz   
-No meio  
-do mapa 
+No meio do mapa 
 
 Viajar  
 É transformar  
-A cicatriz  
-Em caminho  
+A cicatriz em caminho  
 
-É melhor ir  
-Que chegar  
+É melhor ir que chegar  
   
 @ipoemas
 
