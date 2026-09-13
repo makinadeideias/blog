@@ -8,7 +8,9 @@ Nesta página você encontra todos os textos separados por assunto.
 
 {% for category in site.categories %}
   
-  {% if category[0] != 'ALL_categories' and category[0] != 'all_categories' %}
+  {% capture cat_name %}{{ category[0] | downcase | strip }}{% endcapture %}
+  
+  {% if cat_name != 'all_categories' %}
     
     <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
     <ul>
