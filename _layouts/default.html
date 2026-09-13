@@ -26,17 +26,16 @@
     html[data-theme="light"] li,
     html[data-theme="light"] span,
     html[data-theme="light"] div {
-      color: #1a1a1a !important; /* Tom quase preto para dar 20% a mais de peso e contraste */
+      color: #1a1a1a !important; 
     }
 
     /* =========================================
        3. CORES DO DARK MODE
        ========================================= */
     
-    /* Fundo e texto geral (Bio, textos normais) */
     html[data-theme="dark"] body {
-      background-color: #222222 !important; /* Fundo cinza escuro */
-      color: #e8e8e8 !important; /* Branco suave para não cansar a vista */
+      background-color: #222222 !important; 
+      color: #e8e8e8 !important; 
     }
 
     html[data-theme="dark"] h1,
@@ -46,14 +45,12 @@
       color: #e8e8e8 !important;
     }
 
-    /* Links, Menu e Títulos dos Posts (Azul claro) */
     html[data-theme="dark"] a,
     html[data-theme="dark"] .note-title,
     html[data-theme="dark"] .menu-perfil a {
       color: #6699ff !important; 
     }
 
-    /* Datas e elementos secundários (Cinza médio) */
     html[data-theme="dark"] .note-date,
     html[data-theme="dark"] time,
     html[data-theme="dark"] .section-title {
@@ -87,11 +84,18 @@
 <body>
   <div class="wrapper">
     <header class="header">
-      <div class="header-main">
-        <h1 class="logo">
+      <div class="header-main" style="display: flex; align-items: center; justify-content: space-between;">
+        <h1 class="logo" style="margin: 0;">
           <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
         </h1>
-        <button id="theme-btn" class="theme-btn" aria-label="Alternar tema" type="button">
+        
+        <!-- === SEU NOVO MENU DE CATEGORIAS AQUI === -->
+        <nav style="margin: 0 20px;">
+          <a href="{{ '/categorias/' | relative_url }}" style="text-decoration: none; font-weight: bold;">Categorias</a>
+        </nav>
+        <!-- ======================================== -->
+
+        <button id="theme-btn" class="theme-btn" aria-label="Alternar tema" type="button" style="margin-left: auto;">
           <!-- Ícone do Sol (Modo Claro) -->
           <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="12" cy="12" r="5"></circle>
