@@ -6,11 +6,13 @@ permalink: /categorias/
 
 Nesta página você encontra todos os textos separados por assunto.
 
-{% for category in site.categories %}
+<!-- Ordena as categorias alfabeticamente para ficar organizado -->
+{% assign sorted_categories = site.categories | sort %}
+
+{% for category in sorted_categories %}
   
-  {% capture cat_name %}{{ category[0] | downcase | strip }}{% endcapture %}
-  
-  {% if cat_name != 'all_categories' %}
+  <!-- Ignora categorias vazias ou coleções ocultas criadas pelo Jekyll -->
+  {% if category[0] != '' and category[0] != 'posts' and category[0] != 'all_collections' %}
     
     <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
     <ul>
