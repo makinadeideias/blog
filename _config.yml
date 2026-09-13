@@ -3,6 +3,9 @@ author: "Flávio Martins"
 description: "I read the air and write bits of my understanding."
 url: "https://makinadeideias.github.io"
 baseurl: "/blog"
+header_pages:
+  - bio.md
+  - categorias.md
 
 # Bloqueia posts com datas futuras
 future: false
