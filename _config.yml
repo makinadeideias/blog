@@ -5,7 +5,7 @@ url: "https://makinadeideias.github.io"
 baseurl: "/blog"
 header_pages:
   - bio.md
-  - categorias.md
+  - categorias.html
 
 # Bloqueia posts com datas futuras
 future: false
