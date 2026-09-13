@@ -14,7 +14,7 @@ title: Bio
                 <a href="{{ site.baseurl }}">Blog</a>
         <a href="{{ site.baseurl }}/midia-e-publicacoes/">Mídia</a>
       <a href="{{ '/categorias/' | relative_url }}">ASSUNTOS</a>
-        <a href="{{ site.baseurl }}/bio">Eu</a>
+        <a href="{{ site.baseurl }}/bio">quem sou Eu</a>
         <a href="http://youtube.com/makinadeideias" target="_blank" rel="noopener noreferrer">YouTube</a>
       </nav>
     </div>
