@@ -2,7 +2,7 @@
 layout: post
 title: Currículo
 date: 2022-12-31 10:00:00
-categories: [livre, conto]
+categories: [conto]
 ---
 
 
