@@ -2,7 +2,7 @@
 layout: post
 title: Fraternidade
 date: 2027-02-13 10:20:00
-categories: [poema, english]
+categories: [livre, pensando]
 ---
 
 A quem interessa uma briga eterna entre irmãos numa casa compartilhada por eles com seus pais? 

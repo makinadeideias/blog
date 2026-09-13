@@ -2,7 +2,7 @@
 layout: post
 title: Um tuíte sepulcral 
 date: 2012-01-21 10:00:00
-categories: [livre]
+categories: [POEMA]
 ---
 
  Em cemitérios de cidades frias  

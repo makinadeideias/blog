@@ -2,7 +2,7 @@
 layout: post
 title: Taxista em Santiago
 date: 2012-01-04 10:00:00
-categories: [livre]
+categories: [VIAGENS]
 ---
 
 Desembarcando em Santiago, Chile. Conversa com taxista que nos levou ao hotel:  
