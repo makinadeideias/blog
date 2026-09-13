@@ -7,8 +7,8 @@ permalink: /categorias/
 Nesta página você encontra todos os textos separados por assunto.
 
 {% for category in site.categories %}
-  <!-- Esta linha verifica se o nome da categoria é diferente de 'all_categories' -->
-  {% if category[0] != 'all_categories' %}
+  
+  {% if category[0] != 'ALL_categories' and category[0] != 'all_categories' %}
     
     <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
     <ul>
@@ -22,4 +22,5 @@ Nesta página você encontra todos os textos separados por assunto.
     <hr>
     
   {% endif %}
+  
 {% endfor %}
