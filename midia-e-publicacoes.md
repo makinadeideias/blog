@@ -10,7 +10,9 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 
 ### Livros
 * **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
-https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view
+
+[![Baixe o livro](https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true)]([link_de_destino_aqui](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view))
+
 
 <img src="https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 
