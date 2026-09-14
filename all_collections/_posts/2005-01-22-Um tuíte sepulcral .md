@@ -7,5 +7,5 @@ categories: [poema]
 
  Em cemitérios de cidades frias  
  Os corpos se recusam a apodrecer  
-Nao há espaço nas tumbas vazias  
+Nao há espaço nem tumbas vazias  
 A cidade diminui pro cemitério crescer.   
