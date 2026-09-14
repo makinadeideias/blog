@@ -2,7 +2,7 @@
 layout: post
 title: Socorro
 date: 2026-08-16 10:20:00
-categories: [leituras]
+categories: [eu li]]
 ---
 
 
