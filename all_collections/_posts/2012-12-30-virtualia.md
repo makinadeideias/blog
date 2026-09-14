@@ -16,7 +16,7 @@ Ontem comprei meu lixo dessa noite descartável
 gigabytes, mega-hertz mensuram a escuridão da realidade
 Senhor, quantos gigas para nós?
 
-Cientistas sagazes pensam aritmética com linguística 
+Cientistas sagazes pensam matemática com linguística 
 criam hipóteses absurdas em um cérebro eletrônico. 
 Busca, emula, formata, modula, mas ninguém faz a crítica
 Senhor, salve um arquivo por nós!
