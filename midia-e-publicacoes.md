@@ -10,7 +10,6 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 
 ### Livros
 
-Clique para baixar o livro
 
 [![Baixe o livro](https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true)](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)
 
