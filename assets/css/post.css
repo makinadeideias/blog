@@ -258,3 +258,9 @@ main {
     padding: 1.5rem;
   }
 }
+.img-esquerda {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  max-width: 50%; /* Evita que a imagem ocupe a tela toda no celular */
+}
