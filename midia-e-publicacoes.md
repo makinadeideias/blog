@@ -9,7 +9,7 @@ permalink: /midia-e-publicacoes/
 Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais publicados.
 
 ### Livros
-* **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
+* **[+100 atividades com Chat GPT: guia para professores](#)** 
 
 [![Baixe o livro](https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true)](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)
 
