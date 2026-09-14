@@ -32,6 +32,6 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 
 <iframe width="582" height="327" src="https://www.youtube.com/embed/z_YjmN3aXzY?si=6ImDD_jYQ8SQ0j7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5_ntJGlwOOw?si=LIJOzayk4csqzlLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="582" height="327" src="https://www.youtube.com/embed/5_ntJGlwOOw?si=LIJOzayk4csqzlLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
