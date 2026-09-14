@@ -16,9 +16,7 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 
 ### Entrevistas
 * **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
-https://youtu.be/-VmSTfQR0Rk?t=38
-<a href="https://youtu.be/-VmSTfQR0Rk?t=38" target="_blank" rel="noopener noreferrer">YouTube</a>
-
+<iframe width="873" height="491" src="https://www.youtube.com/embed/-VmSTfQR0Rk" title="Direito de ter Direitos O direito a verdade no processo eleitoral: os desafios da IA." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Lives
 * **[Chat GPT na escola: guia para professores](#)** - *(Sinopse)*
 
