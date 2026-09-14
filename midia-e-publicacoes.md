@@ -13,12 +13,6 @@ Aqui você encontra um compilado dos meus trabalhos, entrevistas e materiais pub
 
 [![Baixe o livro](https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true)](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)
 
-
-<img src="https://github.com/makinadeideias/blog/blob/main/assets/images/gpt.png?raw=true" style="width: 100%; height: auto; display: block; margin: 0 auto;">
-
-### Capítulos de Livros e textos em geral
-* **[Chat GPT]
-
 ### Entrevistas e lives
 
 <iframe width="582" height="327" src="https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
