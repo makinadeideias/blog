@@ -9,35 +9,35 @@ Somos homens meio bicho meio terra e meio sal
 Que numa noite de eclipse fomos transformados   
 nesta triste plantação geek de eletrodos e painéis   
 Eclodiu a rede e sua composição über-artificial    
-Senhor, para onde iremos nós?   
+_Senhor, para onde iremos nós?_   
 
 Superconsumidores de tudo que seria e que é  
 Ontem comprei meu lixo dessa noite descartável  
 gigabytes, mega-hertz mensuram a escuridão da realidade  
-Senhor, quantos gigas para nós?  
+_Senhor, quantos gigas para nós?_
 
 Cientistas sagazes pensam matemática com linguística   
 criam hipóteses absurdas em um cérebro eletrônico   
 Busca, emula, formata, modula, mas ninguém faz a crítica  
-Senhor, salve um arquivo por nós!  
+_Senhor, salve um arquivo por nós!_  
 
 Estudantes all hi-tec, com seus tablets moderninhos   
 da telinha pro caderno pra mostrar ao professor  
 contraindo, copiando e emulando argumentos espertinhos  
-Senhor, dá um ctrl C pra nós!  
+_Senhor, dá um ctrl C pra nós!_  
 
 Acadêmicas noite adentro vasculhando a cidade   
 em um giro GPS em busca de um cafajeste pra gozar por uma noite  
 Interação, face to face, rede social da virtualidade  
-Senhor, tenha piedade de nós!  
+_Senhor, tenha piedade de nós!_  
 
 Algoritmos perspicazes transformam rapazes esqueléticos   
 Em príncipes encantados gerados por bits com sabor de silício   
 Tudo é simulação configurada em resultados hipotéticos  
-Senhor, virtualize o amor por nós!  
+_Senhor, virtualize o amor por nós!_  
 
 Network e avatar – terabyte e megahertz - acabou a energia   
 cloud computing –  avatar – tem scraps? _this is the end_   
 Oba – alas – viva o bit - palmas pra tecnologia  
 Vírus e cyberbullying - Control Z, sou novo outra vez  
-Ah, Senhor, tenha um backup de nós!  
+_Ah, Senhor, tenha um backup de nós!_  
