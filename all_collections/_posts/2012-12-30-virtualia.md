@@ -21,7 +21,7 @@ criam hipóteses absurdas em um cérebro eletrônico
 Busca, emula, formata, modula, mas ninguém faz a crítica  
 _Senhor, salve um arquivo por nós!_  
 
-Estudantes all hi-tec, com seus tablets moderninhos   
+Estudantes hi-tech, com seus tablets moderninhos   
 da telinha pro caderno pra mostrar ao professor  
 contraindo, copiando e emulando argumentos espertinhos  
 _Senhor, dá um ctrl C pra nós!_  
