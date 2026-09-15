@@ -27,7 +27,7 @@ contraindo, copiando e emulando argumentos espertinhos
 _Senhor, dá um ctrl C pra nós!_  
 
 Acadêmicas noite adentro vasculhando a cidade   
-em um giro GPS em busca de um cafajeste pra gozar por uma noite  
+em um giro GPS pra gozar por uma noite  
 Interação, face to face, rede social da virtualidade  
 _Senhor, tenha piedade de nós!_  
 
