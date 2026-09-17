@@ -2,7 +2,7 @@
 layout: post
 title: Brincadeira de criança
 date: 2018-09-04 10:20:00
-categories: [Aprender]
+categories: [educação]
 ---
 
 A maneira como as novas tecnologias tem interferido em nossas relações é tão intensa que normalmente nem paramos pra pensar nisso. É famoso na rede o email que começa assim: "Você precisa ir ao clube quando…". No referido texto o anônimo autor cita exemplos claros de situações nas quais as pessoas não mais interagem pessoalmente por contarem com a comodidade e rapidez dos meios eletrônicos. Assim, um amigo pode convidar o outro para almoçarem juntos por email ou sms, mesmo estando a centímetros de distancia, no computador ao lado. Pessoalmente esta relação tem acrescentado muito à minha vida pessoal, por ser eu um escritor amador de contos, crônicas e poemas. Hoje tudo que se relaciona ao ato de escrever faço online. 
