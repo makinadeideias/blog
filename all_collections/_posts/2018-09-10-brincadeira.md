@@ -1,0 +1,11 @@
+---
+layout: post
+title: Brincadeira de criança
+date: 2018-09-04 10:20:00
+categories: [Aprender]
+---
+
+Brincadeira de criança
+A maneira como as novas tecnologias tem interferido em nossas relações é tão intensa que normalmente nem paramos pra pensar nisso. É famoso na rede o email que começa assim: "Você precisa ir ao clube quando…". No referido texto o anônimo autor cita exemplos claros de situações nas quais as pessoas não mais interagem pessoalmente por contarem com a comodidade e rapidez dos meios eletrônicos. Assim, um amigo pode convidar o outro para almoçarem juntos por email ou sms, mesmo estando a centímetros de distancia, no computador ao lado. Pessoalmente esta relação tem acrescentado muito à minha vida pessoal, por ser eu um escritor amador de contos, crônicas e poemas. Hoje tudo que se relaciona ao ato de escrever faço online. 
+
+Noutros tempos eu era escravo de um bloquinho de papel e de um lápis que me acompanhava por todo lado. Ainda o carrego, mas o uso é mais cadenciado com meus momentos offline. Quantos textos tenho que foram escritos a partir de impressões escritas numa frase em pedaços de papel esquecidos no fundo dos bolsos das calças e salvos a tempo por minha mãe antes da lavagem? Gostaria de recomendar a leitura de minha crônica Tecnostalgia que acredito ilustrar bem esta relação. Outro fato que me intriga é a proliferação de jogos eletrônicos e online que cada vez mais invadem nosso cotidiano. Quem não conhece ou não jogou Amarelinha, Pula-carniça, Garrafão ou Pegador? Hoje as crianças estão globalizadas e as brincadeiras estão cada vez mais dependentes de tecnologia. God of war, The Sims, Second Life, Xbox e Playstation e vários outros tomaram o lugar das brincadeiras de roda e das cantigas, das correrias, das competições infantis. Claro que na "nossa" época já havia videogames e TV, mas nada na proporção do que existe hoje. Teria o tempo do brincar sido também transformado pela onda tecnológica? Quais os benefícios dessa mudança? O que os pedagogos e psicólogos dizem sobre isso? Éramos mais felizes?
