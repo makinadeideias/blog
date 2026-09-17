@@ -2,7 +2,7 @@
 layout: post
 title: Você já fez ginástica cerebral?
 date: 2018-09-04 10:20:00
-categories: [Aprender]
+categories: [educação]
 ---
 
 

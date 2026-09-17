@@ -2,7 +2,7 @@
 layout: post
 title: Engula!
 date: 2018-04-04 10:20:00
-categories: [Aprender]
+categories: [educação]
 ---
 
 Um colega me perguntou de maneira ofensiva e tom de voz provocativo numa conversa recente: por que você fica publicando coisas em inglês? Você acha que todo mundo fala inglês ou saber ler em inglês? Moramos no Brasil e você fica publicando em inglês. Sua família fala inglês? Essa fala dele me despertou pra uma coisa muito importante e que todas as pessoas deveriam saber: se você não pratica uma língua, ela se perde, você perde fluência, perde vocabulário, perde o traquejo da coisa.

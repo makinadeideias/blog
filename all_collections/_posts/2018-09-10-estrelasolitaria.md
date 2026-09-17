@@ -2,7 +2,7 @@
 layout: post
 title: A estrela solitária
 date: 2018-09-04 10:20:00
-categories: [Aprender]
+categories: [educação]
 ---
 Todos sabem que o Brasil tem muitos estados, mas você sabia que:    
 1 - Os Estados Unidos tem 50 estados?  
