@@ -2,7 +2,7 @@
 layout: post
 title: Black seven
 date: 2018-09-04 10:20:00
-categories: [poema, English]
+categories: [poema, english]
 ---
 
 Love, money, prison, crime
