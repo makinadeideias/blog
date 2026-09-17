@@ -2,7 +2,7 @@
 layout: post
 title: Parlez-vous English?
 date: 2018-04-20 10:00:00
-categories: [penso,aprender]
+categories: [penso, aprender]
 ---
 
 Você já parou pra pensar de onde vem o inglês que aprendemos? Estima-se que entre 29 e 30% das palavras da língua inglesa vieram do francês! UNBELIEVABLE, monsieur!!!! Mas é isso mesmo! A língua inglesa teve e ainda tem muito a dizer em francês!
