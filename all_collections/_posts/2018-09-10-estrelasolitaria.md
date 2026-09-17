@@ -4,8 +4,6 @@ title: A estrela solitária
 date: 2018-09-04 10:20:00
 categories: [Aprender]
 ---
-
-
 Todos sabem que o Brasil tem muitos estados, mas você sabia que os Estados Unidos tem 50 estados, certo? E sabia que eles têm um apelido para cada um dos estados? E mais: sabia que os apelidos têm relação com aspectos naturais, sociais, econômicos e geográficos?
 
 Pois é!Alguns apelidos também estão relacionados à fauna, à flora ou a alguma personalidade local.
