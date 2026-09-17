@@ -4,9 +4,12 @@ title: A estrela solitária
 date: 2018-09-04 10:20:00
 categories: [Aprender]
 ---
-Todos sabem que o Brasil tem muitos estados, mas você sabia que os Estados Unidos tem 50 estados, certo? E sabia que eles têm um apelido para cada um dos estados? E mais: sabia que os apelidos têm relação com aspectos naturais, sociais, econômicos e geográficos?
+Todos sabem que o Brasil tem muitos estados, mas você sabia que:  
+1 - Os Estados Unidos tem 50 estados?
+2 - Sabia que eles têm um apelido para cada um dos estados? E mais:
+3 - Sabia que os apelidos têm relação com aspectos naturais, sociais, econômicos e geográficos?
 
-Pois é!Alguns apelidos também estão relacionados à fauna, à flora ou a alguma personalidade local.
+Pois é! Alguns apelidos também estão relacionados à fauna, à flora ou a alguma personalidade local.
 
 Alguns apelidos são muito estranhos ou curiosos, por exemplo, The Land of Enchantment para o New Mexico e The Equality ou Cowboy State para o Wyoming. O apelido do Texas é The lone star state; de Washington, The evergreen state; e do Missouri, The show me state. Aqui você pode checar uma lista com todos esses apelidos e aprender um pouquinho mais sobre a história de cada estado. Acesse aqui para aprender e responder perguntas sobre os estados de maneira bem divertida e lúdica.
 
