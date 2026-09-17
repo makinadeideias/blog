@@ -5,7 +5,7 @@ date: 2018-08-35 11:00:00
 categories: [penso]
 ---
 
-![Cheeseburger](https://raw.githubusercontent.com/makinadeideias/blog/main/assets/images/cheese.png){: style="float: left; width: 50%; margin-right: 20px; margin-bottom: 10px;" }Recently, I received an audio message from a colleague who offensively asked me in a provocative tone: "Why do you keep posting things in English? Do you think everyone speaks or can read English? We live in Brazil, yet you publish in English as if it were our native language. Not even your family can speak English…"
+![Cheeseburger](https://miro.medium.com/v2/resize:fit:640/format:webp/1*RBmdCBmidPgxXleaGKIT4A.jpeg){: style="float: left; width: 50%; margin-right: 20px; margin-bottom: 10px;" }Recently, I received an audio message from a colleague who offensively asked me in a provocative tone: "Why do you keep posting things in English? Do you think everyone speaks or can read English? We live in Brazil, yet you publish in English as if it were our native language. Not even your family can speak English…"
 
 His words alerted me to something I find very important to declare to everyone who speaks and loves other languages: If you do not practice a language, you will lose it. You will lose fluency, you will lose vocabulary, and you will lose what you made all that massive effort to achieve. Language is dynamic, fluid, and, above all, alive. Language is meant to be used (all languages are). Language is meant for communication, for speaking, for connecting. I have never used my English to make fun of anyone or to brag about being better than anyone else.
 
