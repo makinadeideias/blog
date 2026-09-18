@@ -5,7 +5,6 @@ date: 2026-09-17 10:20:00
 categories: [ia, tecnologia, opinião]
 ---
 
-
 ##### Por Luiz Carlos Rena e Flávio Martins da Silva
 
 A inteligência artificial generativa (IA) já faz parte do nosso cotidiano e deverá ocupar um lugar ainda mais importante nas eleições de 2026.
