@@ -6,7 +6,7 @@ categories: [ia, tecnologia, opinião]
 ---
 
 
-##### Por Luiz Carlos Rena e Flávio Martins da Silva_
+##### Por Luiz Carlos Rena e Flávio Martins da Silva
 
 A inteligência artificial generativa (IA) já faz parte do nosso cotidiano e deverá ocupar um lugar ainda mais importante nas eleições de 2026.
 Seu potencial para produzir textos, imagens, áudios e vídeos cada vez mais convincentes abre possibilidades extraordinárias, mas também traz um desafio fundamental para a democracia: como distinguir a realidade da manipulação?
