@@ -2,7 +2,7 @@
 layout: post
 title: Virtualia
 date: 2016-04-13 10:00:00
-categories: [poema]
+categories: [poema, tecnologia]
 ---
 
 Somos homens meio bicho meio terra e meio sal   
