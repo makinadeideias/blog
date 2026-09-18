@@ -2,7 +2,7 @@
 layout: post
 title: Inteligência artificial, eleições e o direito à verdade
 date: 2026-09-17 10:20:00
-categories: [IA, tecnologia, opinião]
+categories: [ia, tecnologia, opinião]
 ---
 
 
