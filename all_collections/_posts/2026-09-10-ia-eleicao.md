@@ -39,4 +39,4 @@ As eleições de 2026 colocam diante de nós uma responsabilidade coletiva. Cand
 
 Por isso, diante dos desafios impostos pela inteligência artificial, defender a democracia significa também defender o direito à informação, o direito à verdade e o direito de não ser manipulado. Nas eleições que se aproximam, talvez uma das maiores demonstrações de responsabilidade cidadã seja justamente esta: antes de clicar em “compartilhar”, parar, desconfiar e verificar. Porque, em tempos de inteligência artificial, pensar antes de compartilhar também é um ato político.
 
-# Originalmente publicado na Revista Pressenza em https://www.pressenza.com/pt-pt/2026/09/inteligencia-artificial-eleicoes-e-o-direito-a-verdade/ 
+ Originalmente publicado na Revista Pressenza em https://www.pressenza.com/pt-pt/2026/09/inteligencia-artificial-eleicoes-e-o-direito-a-verdade/ 
