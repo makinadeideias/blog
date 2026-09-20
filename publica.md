@@ -20,7 +20,6 @@ title: Publicações
 </section>
 <hr class="sep-light">
  <!-- Botões de Compartilhamento -->
-  <section class="share-section">
     <span class="share-title">Compartilhar:</span>
     <div class="share-buttons">
       <!-- WhatsApp -->
