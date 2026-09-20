@@ -37,4 +37,5 @@ layout: default
 - (2026) Educonle UFMG
 - (2025) Educonle UFMG
 - (2024) Educonle UFMG
+- (2024) Infortec CEFET-MG
 - (2022) Teacher's Education Summit International
