@@ -31,6 +31,7 @@ layout: default
 
 #### Palestras, lives e cursos
 - (2026) iTChat Portugal
+- (2026) Infortec CEFET-MG
 - (2026) Brasil de Fato
 - (2026) Rede de Formação de professores de EJA
 - (2026) UFOP
