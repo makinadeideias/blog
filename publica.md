@@ -44,8 +44,8 @@ title: Publicações
 - (2006) Reflexivas numa mesa de boteco  [ver]  
 
 #### Entrevistas e programas
-- (2024) TV Minas 
-- (2014) TV UFMG
+- (2024) TV Minas [ver] 
+- (2014) TV UFMG  [ver] 
 
 #### Palestras, lives e cursos
 - (2026) iTChat Portugal  [ver] 
