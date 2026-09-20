@@ -38,7 +38,7 @@ title: Publicações
 - (2025) Ontem lavei meu cabelo  [ver]  
 - (2024) +100 atividades com ChatGPT para professores [ver]  
 - (2014) A menina que falava bebelês  [ver]  
-- (2009) Geek poema  [ver](https://periodicos.ufmg.br/index.php/txt/article/view/11147/7885)
+- (2009) Geek poema  [[ver]](https://periodicos.ufmg.br/index.php/txt/article/view/11147/7885)
 - (2008) Emily   [ver]  
 - (2006) Contos horizontais  [ver]  
 - (2006) Reflexivas numa mesa de boteco  [ver]  
