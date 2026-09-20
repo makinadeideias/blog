@@ -22,40 +22,40 @@ title: Publicações
 
 #### Artigos científicos
 
-- (2026) Ética e uso de IA na educação básica  [ver]   
-- (2024) Memes, leitura e interpretação de textos  [ver]  
-- (2024) Língua inglesa e aprendizagem   [ver]  
-- (2010) Por que (não) aprender inglês na escola  [ver]  
+- (2026) Ética e uso de IA na educação básica  [[ver]]   
+- (2024) Memes, leitura e interpretação de textos  [[ver]]  
+- (2024) Língua inglesa e aprendizagem   [[ver]]  
+- (2010) Por que (não) aprender inglês na escola  [[ver]]  
 
 #### Artigos de opinião
 
-- (2026) O dia em que Hitler invadiu minha sala  [ver]  
-- (2026) IA, eleições e o direito à verdade  [ver]  
+- (2026) O dia em que Hitler invadiu minha sala  [[ver]]  
+- (2026) IA, eleições e o direito à verdade  [[ver]]  
 
 
 #### Livros
-- (2026) A formiguinha preta  [ver]  
-- (2025) Ontem lavei meu cabelo  [ver]  
-- (2024) +100 atividades com ChatGPT para professores [ver]  
-- (2014) A menina que falava bebelês  [ver]  
-- (2014) A gatihnha que falava siamês  [ver]  
+- (2026) A formiguinha preta  [[ver]]  
+- (2025) Ontem lavei meu cabelo  [[ver]]  
+- (2024) +100 atividades com ChatGPT para professores [[ver]] 
+- (2014) A menina que falava bebelês  [[ver]]  
+- (2014) A gatinha que falava siamês  [[ver]]  
 - (2009) Geek poema  [[ver]](https://periodicos.ufmg.br/index.php/txt/article/view/11147/7885)
-- (2008) Emily   [ver]  
-- (2006) Contos horizontais  [ver]  
-- (2006) Reflexivas numa mesa de boteco  [ver]  
+- (2008) Emily   [[ver]] 
+- (2006) Contos horizontais  [[ver]] 
+- (2006) Reflexivas numa mesa de boteco  [[ver]]  
 
 #### Entrevistas e programas
-- (2024) TV Minas [ver] 
-- (2014) TV UFMG  [ver] 
+- (2024) TV Minas [[ver]]
+- (2014) TV UFMG  [[ver]] 
 
 #### Palestras, lives e cursos
-- (2026) iTChat Portugal  [ver] 
-- (2026) Infortec CEFET-MG  [ver] 
-- (2026) Brasil de Fato  [ver] 
-- (2026) Rede de Formação de professores de EJA  [ver] 
-- (2026) Letras UFOP  [ver] 
-- (2026) Educonle UFMG  [ver] 
-- (2025) Educonle UFMG  [ver] 
-- (2024) Educonle UFMG  [ver] 
-- (2024) Infortec CEFET-MG  [ver] 
-- (2022) Teacher's Education Summit International  [ver] 
+- (2026) iTChat Portugal  [[ver]] 
+- (2026) Infortec CEFET-MG  [[ver]] 
+- (2026) Brasil de Fato  [[ver]] 
+- (2026) Rede de Formação de professores de EJA  [[ver]] 
+- (2026) Letras UFOP  [[ver]] 
+- (2026) Educonle UFMG  [[ver]] 
+- (2025) Educonle UFMG  [[ver]] 
+- (2024) Educonle UFMG  [[ver]] 
+- (2024) Infortec CEFET-MG  [[ver]] 
+- (2022) Teacher's Education Summit International  [[ver]] 
