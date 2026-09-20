@@ -18,6 +18,7 @@ IA, eleições e o direito à verdade (2026) baixar
 #### Livros
 A formiguinha preta (2026) baixar
 Ontem lavei meu cabelo (2025) baixar
++100 atividades com Chat GPT para professores (2024) baixar
 A menina que falava bebelês (2014) baixar
 Geek poema (2009) baixar
 Emily (2008) baixar
