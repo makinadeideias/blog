@@ -16,6 +16,7 @@ title: Publicações
       <a href="{{ site.baseurl }}/bio">Sobre</a>
       </nav>
     </div>
+  </div>
 </section>
 <hr class="sep-light">
  <!-- Botões de Compartilhamento -->
