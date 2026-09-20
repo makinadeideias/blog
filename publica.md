@@ -4,10 +4,10 @@ layout: default
 
 #### Artigos científicos
 
-Ética e uso de IA na educação básica (2026) baixar. 
-Memes, leitura e interpretação de textos (2024) baixar. 
-Língua inglesa e aprendizagem (2014) baixar. 
-Por que (não) aprender inglês na escola (2010) baixar. 
+Ética e uso de IA na educação básica (2026) baixar   
+Memes, leitura e interpretação de textos (2024) baixar  
+Língua inglesa e aprendizagem (2014) baixar  
+Por que (não) aprender inglês na escola (2010) baixar  
 
 #### Artigos de opinião
 
