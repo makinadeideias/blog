@@ -22,26 +22,26 @@ title: Publicações
 
 #### Artigos científicos
 
-- (2026) Ética e uso de IA na educação básica baixar   
-- (2024) Memes, leitura e interpretação de textos baixar  
-- (2024) Língua inglesa e aprendizagem  baixar  
-- (2010) Por que (não) aprender inglês na escola baixar  
+- (2026) Ética e uso de IA na educação básica - [ver]    
+- (2024) Memes, leitura e interpretação de textos - [ver]   
+- (2024) Língua inglesa e aprendizagem  - [ver]   
+- (2010) Por que (não) aprender inglês na escola - [ver]   
 
 #### Artigos de opinião
 
-- (2026) O dia em que Hitler invadiu minha sala baixar  
-- (2026) IA, eleições e o direito à verdade baixar  
+- (2026) O dia em que Hitler invadiu minha sala - [ver]   
+- (2026) IA, eleições e o direito à verdade - [ver]   
 
 
 #### Livros
-- (2026) A formiguinha preta baixar  
-- (2025) Ontem lavei meu cabelo baixar  
-- (2024) +100 atividades com Chat GPT para professores baixar  
-- (2014) A menina que falava bebelês baixar  
-- (2009) Geek poema baixar  
-- (2008) Emily  baixar  
-- (2006) Contos horizontais baixar  
-- (2006) Reflexivas numa mesa de boteco baixar  
+- (2026) A formiguinha preta - [ver]   
+- (2025) Ontem lavei meu cabelo - [ver]   
+- (2024) +100 atividades com Chat GPT para professores - [ver]   
+- (2014) A menina que falava bebelês - [ver]   
+- (2009) Geek poema - [ver]   
+- (2008) Emily  - [ver]   
+- (2006) Contos horizontais - [ver]   
+- (2006) Reflexivas numa mesa de boteco - [ver]   
 
 #### Entrevistas e programas
 - (2024) TV Minas 
