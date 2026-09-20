@@ -4,25 +4,25 @@ layout: default
 
 #### Artigos científicos
 
-- Ética e uso de IA na educação básica (2026) baixar   
-- Memes, leitura e interpretação de textos (2024) baixar  
-- Língua inglesa e aprendizagem (2014) baixar  
-- Por que (não) aprender inglês na escola (2010) baixar  
+- (2026) Ética e uso de IA na educação básica baixar   
+- (2024) Memes, leitura e interpretação de textos baixar  
+- (2024) Língua inglesa e aprendizagem  baixar  
+- (2010) Por que (não) aprender inglês na escola baixar  
 
 #### Artigos de opinião
 
-- (2026) O dia em que Hitler invadiu minha sala (2026) baixar  
-- (2026) IA, eleições e o direito à verdade (2026) baixar  
+- (2026) O dia em que Hitler invadiu minha sala baixar  
+- (2026) IA, eleições e o direito à verdade baixar  
 
 
 #### Livros
-- A formiguinha preta (2026) baixar  
-- Ontem lavei meu cabelo (2025) baixar  
-- +100 atividades com Chat GPT para professores (2024) baixar  
-- A menina que falava bebelês (2014) baixar  
-- Geek poema (2009) baixar  
-- Emily (2008) baixar  
-- Contos horizontais (2006) baixar  
-- Reflexivas numa mesa de boteco (2006) baixar  
+- (2026) A formiguinha preta baixar  
+- (2025) Ontem lavei meu cabelo baixar  
+- (2024) +100 atividades com Chat GPT para professores baixar  
+- (2014) A menina que falava bebelês baixar  
+- (2009) Geek poema baixar  
+- (2008) Emily  baixar  
+- (2006) Contos horizontais baixar  
+- (2006) Reflexivas numa mesa de boteco baixar  
 
 
