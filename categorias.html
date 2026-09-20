@@ -3,6 +3,23 @@ layout: page
 title: Categorias
 permalink: /categorias/
 ---
+<!-- Seção Perfil (Foto + Frase + Tags Dinâmicas) -->
+<section class="profile-section">
+  <div class="profile-header">
+    <img src="{{ 'https://avatars.githubusercontent.com/u/244601701?v=4' | relative_url }}" alt="{{ site.author }}" class="avatar" onerror="this.style.display='none'">
+    <div class="profile-info">
+      <p class="site-bio">I read the air and write bits of my understanding.</p>
+      <!-- Novo Menu -->
+      <nav class="menu-perfil">
+        <a href="{{ site.baseurl }}">Blog</a>
+      <a href="{{ '/categorias/' | relative_url }}">ASSUNTOS</a>
+<a href="{{ site.baseurl }}/publica/">publicações</a>
+      <a href="{{ site.baseurl }}/bio">Sobre</a>
+      </nav>
+    </div>
+  </div>
+</section>
+<hr class="sep-light">
 
 Nesta página você encontra todos os textos separados por assunto.
 
