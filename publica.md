@@ -25,4 +25,11 @@ layout: default
 - (2006) Contos horizontais baixar  
 - (2006) Reflexivas numa mesa de boteco baixar  
 
+#### Entrevistas e programas
+- (2024) TV Minas 
+- (2014) TV UFMG
 
+#### Palestras e cursos
+- (2026) iTP Portugal
+- (2026) UFOP
+- (2026) TV UFMG
