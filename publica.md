@@ -37,6 +37,7 @@ title: Publicações
 - (2026) A formiguinha preta  [[ver]]  
 - (2025) Ontem lavei meu cabelo  [[ver]]  
 - (2024) +100 atividades com ChatGPT para professores [[ver]](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)
+- (2024) +100 atividades com ChatGPT para professores [![ver](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)]
 - (2014) A menina que falava bebelês  [[ver]]  
 - (2014) A gatinha que falava siamês  [[ver]]  
 - (2009) Geek poema  [[ver]](https://periodicos.ufmg.br/index.php/txt/article/view/11147/7885)
