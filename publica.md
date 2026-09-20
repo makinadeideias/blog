@@ -51,13 +51,13 @@ title: Publicações
 #### Palestras, lives e cursos
 - (2026) Infortec CEFET-MG  [[ver]] 
 - (2026) Brasil de Fato  [[ver]](https://www.youtube.com/embed/-VmSTfQR0Rk) 
-- (2026) Rede de Formação de professores de EJA  [[ver]] (https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)
+- (2026) Rede de Formação de professores de EJA  [[ver]](https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)
 - (2025) Letramento Digital [[ver]](https://www.youtube.com/embed/C4aheYlimMs?si=7c_dXItnOJdESOKo)
-- (2026) Letras UFOP  [[ver]] (https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)
+- (2026) Letras UFOP  [[ver]](https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)
 - (2026) Educonle UFMG  [[ver]] 
 - (2025) Educonle UFMG  [[ver]] 
-- (2024) iTChat Portugal  [[ver]] (https://www.youtube.com/embed/WICQPBhInTc?si=3vDga5rQMgLT4vnq)
-- (2024) Seduc Contagem  [[ver]] (https://www.youtube.com/embed/cnOW9-iCE1c?si=_PhbReH_lxlXfrf4)
+- (2024) iTChat Portugal  [[ver]](https://www.youtube.com/embed/WICQPBhInTc?si=3vDga5rQMgLT4vnq)
+- (2024) Seduc Contagem  [[ver]](https://www.youtube.com/embed/cnOW9-iCE1c?si=_PhbReH_lxlXfrf4)
 - (2024) Educonle UFMG  [[ver]](https://www.youtube.com/embed/H-ULcBlZqyk?si=azfAEag0-fO63Bct) [[ver]](https://www.youtube.com/embed/2T2dYhiOa5g?si=yw0UrVJfxD6kDgBD) 
-- (2024) Infortec CEFET-MG  [[ver]] (https://www.youtube.com/embed/z_YjmN3aXzY?si=6ImDD_jYQ8SQ0j7S)
+- (2024) Infortec CEFET-MG  [[ver]](https://www.youtube.com/embed/z_YjmN3aXzY?si=6ImDD_jYQ8SQ0j7S)
 - (2022) Teacher's Education Summit International  [[ver]](https://www.youtube.com/embed/5_ntJGlwOOw?si=LIJOzayk4csqzlLf)
