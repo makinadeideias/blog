@@ -29,7 +29,12 @@ layout: default
 - (2024) TV Minas 
 - (2014) TV UFMG
 
-#### Palestras e cursos
-- (2026) iTP Portugal
+#### Palestras, lives e cursos
+- (2026) iTChat Portugal
+- (2026) Brasil de Fato
+- (2026) Rede de Formação de professores de EJA
 - (2026) UFOP
-- (2026) TV UFMG
+- (2026) Educonle UFMG
+- (2025) Educonle UFMG
+- (2024) Educonle UFMG
+- (2022) Teacher's Education Summit International
