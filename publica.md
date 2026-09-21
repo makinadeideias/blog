@@ -51,7 +51,7 @@ title: Publicações
 #### Palestras, lives e cursos
 - (2026) `Infortec CEFET-MG`  [[ver]] 
 - (2026) Brasil de Fato  [[ver]](https://www.youtube.com/embed/-VmSTfQR0Rk)  
-- (2026) Rede de Formação de professores de EJA  [[ver]](https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)
+- (2026) Rede de Formação de professores de EJA [[ver]](https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)
 - (2025) Letramento Digital [[ver]](https://www.youtube.com/embed/C4aheYlimMs?si=7c_dXItnOJdESOKo)
 - (2026) Letras UFOP  [[ver]](https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)
 - (2026) Educonle UFMG  [[ver]] 
