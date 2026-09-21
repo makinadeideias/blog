@@ -58,6 +58,6 @@ title: Publicações
 - (2025) Educonle UFMG <b>[[ver]] </b>
 - (2024) iTChat Portugal <b> [[ver]](https://www.youtube.com/embed/WICQPBhInTc?si=3vDga5rQMgLT4vnq)</b>
 - (2024) Seduc Contagem  <b>[[ver]](https://www.youtube.com/embed/cnOW9-iCE1c?si=_PhbReH_lxlXfrf4)</b>
-- (2024) Educonle UFMG  <b>[[ver]](https://www.youtube.com/embed/H-ULcBlZqyk?si=azfAEag0-fO63Bct) </b>[[ver]](https://www.youtube.com/embed/2T2dYhiOa5g?si=yw0UrVJfxD6kDgBD)</b> 
+- (2024) Educonle UFMG  <b>[[ver]](https://www.youtube.com/embed/H-ULcBlZqyk?si=azfAEag0-fO63Bct) </b><b>[[ver]](https://www.youtube.com/embed/2T2dYhiOa5g?si=yw0UrVJfxD6kDgBD)</b> 
 - (2024) Infortec CEFET-MG  <b>[[ver]](https://www.youtube.com/embed/z_YjmN3aXzY?si=6ImDD_jYQ8SQ0j7S)</b>
 - (2022) Teacher's Education Summit International  <b>[[ver]](https://www.youtube.com/embed/5_ntJGlwOOw?si=LIJOzayk4csqzlLf)</b>
