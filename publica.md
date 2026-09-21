@@ -49,7 +49,7 @@ title: Publicações
 - (2014) TV UFMG  [[ver]](https://www.youtube.com/embed/P4kj9ZnILt0) 
 
 #### Palestras, lives e cursos
-- (2026) Infortec CEFET-MG  [[ver]] 
+- (2026) `Infortec CEFET-MG`  [[ver]] 
 - (2026) Brasil de Fato  <b>[[ver]](https://www.youtube.com/embed/-VmSTfQR0Rk) </b>
 - (2026) Rede de Formação de professores de EJA  [[ver]](https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)
 - (2025) Letramento Digital [[ver]](https://www.youtube.com/embed/C4aheYlimMs?si=7c_dXItnOJdESOKo)
