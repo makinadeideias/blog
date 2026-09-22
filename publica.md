@@ -56,9 +56,9 @@ title: Publicações
 - (2026) Infortec CEFET-MG  <b>[ver] </b>
 - (2026) Brasil de Fato  <b>[ver](https://www.youtube.com/embed/-VmSTfQR0Rk)  </b>
 - (2026) Rede de Formação de professores de EJA <b>[ver](https://www.youtube.com/embed/Jxy_-8YT0hQ?si=M3PoNnoI8nvfaHFx)</b>
+- (2026) Educonle UFMG  <b>[ver] </b>  
 - (2025) Letramento Digital <b>[ver](https://www.youtube.com/embed/C4aheYlimMs?si=7c_dXItnOJdESOKo)
-- (2026) Letras UFOP  <b>[ver](https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)</b>
-- (2026) Educonle UFMG  <b>[ver] </b>
+- (2024) Letras UFOP  <b>[ver](https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)</b>
 - (2025) Educonle UFMG <b>[ver] </b>
 - (2024) Seduc Contagem  <b>[ver](https://www.youtube.com/embed/cnOW9-iCE1c?si=_PhbReH_lxlXfrf4)</b>
 - (2024) Educonle UFMG  <b>[ver](https://www.youtube.com/embed/H-ULcBlZqyk?si=azfAEag0-fO63Bct) </b><b>[ver](https://www.youtube.com/embed/2T2dYhiOa5g?si=yw0UrVJfxD6kDgBD)</b> 
