@@ -22,7 +22,6 @@ title: Publicações
 
 #### Artigos científicos
 
-- (2026) Ética e uso de IA na educação básica  <b>[ver]  </b>   
 - (2026) "Isso foi escrito pelo chatgpt": efeitos de autoria na cultura digital<b>[ver]  </b>   
 - (2026) Ética e inteligência artificial na educação <b>[ver]  </b>   
 - (2026) Letramento em prompt para IAG <b>[ver]  </b> 
