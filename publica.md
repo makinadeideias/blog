@@ -43,7 +43,7 @@ title: Publicações
 - (2014) A menina que falava bebelês  <b>[ver]  </b>
 - (2014) A gatinha que falava siamês  <b>[ver]  </b>
 - (2009) Geek poema  <b>[ver](https://periodicos.ufmg.br/index.php/txt/article/view/11147/7885)</b>
-- (2008) Emily   <b>[ver] </b>
+- (2008) A incrível história de Emily   <b>[ver](https://drive.google.com/file/d/18Jh0IjARp-oPwovVmsyb0Agi1S94Ufki/view?usp=sharing) </b>
 - (2006) Contos horizontais  <b>[ver] 
 - (2006) Reflexivas numa mesa de boteco  <b>[ver] </b> 
 
