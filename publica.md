@@ -28,7 +28,7 @@ title: Publicações
 - (2026) Letramento em prompt para inteligência artificial<b>[ver]  </b> 
 - (2024) Memes, leitura e interpretação de textos  <b>[ver]  </b>
 - (2024) Língua inglesa e aprendizagem   <b>[ver] </b> 
-- (2010) Por que (não) aprender inglês na escola  <b>[ver] </b> 
+- (2010) Por que aprender inglês parece ser tão difícil?<b>[ver] </b>(https://drive.google.com/file/d/19s-0DihJ_H3UeZjhsmgqq_5eszvTGQgM/view?usp=sharing) 
 
 #### Artigos de opinião
 
