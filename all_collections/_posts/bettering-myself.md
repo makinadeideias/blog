@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bettering Myself
-date: 2026-02-30 10:20:00
+date: 2026-02-26 10:20:00
 categories: [fiction, jekyll,star]
 ---
 
