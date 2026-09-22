@@ -1,4 +1,10 @@
-Bettering Myself
+---
+layout: post
+title: Bettering Myself
+date: 2026-02-30 10:20:00
+categories: [fiction, jekyll,star]
+---
+
 Ottessa Moshfegh
 Issue 204, Spring 2013
 
