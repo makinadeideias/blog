@@ -32,8 +32,8 @@ title: Publicações
 
 #### Artigos de opinião
 
-- (2026) O dia em que Hitler invadiu minha sala  <b>[ver]</b>  
-- (2026) IA, eleições e o direito à verdade  <b>[ver] </b> 
+- (2026) O dia em que Hitler invadiu minha sala  <b>[ver](https://www.brasildefato.com.br/colunista/educacao-em-direitos-humanos-educar-para-as-sensibilidades/2026/07/27/o-dia-em-que-hitler-invadiu-minha-sala/)</b>  
+- (2026) IA, eleições e o direito à verdade  <b>[ver](https://www.pressenza.com/pt-pt/2026/09/inteligencia-artificial-eleicoes-e-o-direito-a-verdade/) </b> 
 
 
 #### Livros
