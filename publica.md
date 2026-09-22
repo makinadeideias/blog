@@ -59,6 +59,7 @@ title: Publicações
 - (2026) Educonle UFMG  <b>[ver] </b>  
 - (2025) Letramento Digital <b>[ver](https://www.youtube.com/embed/C4aheYlimMs?si=7c_dXItnOJdESOKo)
 - (2025) Educonle UFMG <b>[ver] </b>
+- (2024) Inforxicação digital <b>[ver]
 - (2024) Letras UFOP  <b>[ver](https://www.youtube.com/embed/i0A5-XGdvGw?si=yhE26FgmgfDj27At)</b>
 - (2024) Seduc Contagem  <b>[ver](https://www.youtube.com/embed/cnOW9-iCE1c?si=_PhbReH_lxlXfrf4)</b>
 - (2024) Educonle UFMG  <b>[ver](https://www.youtube.com/embed/H-ULcBlZqyk?si=azfAEag0-fO63Bct) </b><b>[ver](https://www.youtube.com/embed/2T2dYhiOa5g?si=yw0UrVJfxD6kDgBD)</b> 
