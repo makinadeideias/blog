@@ -38,6 +38,7 @@ title: Publicações
 #### Livros
 - (2026) A formiguinha preta  <b>[ver] </b>
 - (2025) Ontem lavei meu cabelo  <b>[ver] </b> 
+- (2025) Where is home?  <b>[ver] </b> 
 - (2024) +100 atividades com ChatGPT para professores <b>[ver](https://drive.google.com/file/d/1J_PYGW3bqZWBCRWsawff-SRRbDA2MCB0/view)</b>
 - (2014) A menina que falava bebelês  <b>[ver]  </b>
 - (2014) A gatinha que falava siamês  <b>[ver]  </b>
