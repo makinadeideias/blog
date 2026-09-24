@@ -2,7 +2,7 @@
 layout: post
 title: Bettering Myself
 date: 2026-02-26 10:20:00
-categories: [fiction, jekyll,star]
+categories: [fiction, other, english]
 ---
 
 Ottessa Moshfegh
@@ -48,5 +48,3 @@ The other math teacher was a little Filipina who I knew made less money than me 
 My students were all horrible at math. I got stuck with the dummies. Popliasti, worst of all, could barely add two and two. There was no way my kids could ever pass that big exam. When the day came to take the test, the Filipina and I looked at each other like, Who are we kidding? I passed out the tests, had them break the seals, showed them how to fill in the bubbles properly with the right pencils, told them, “Try your best,” and then I took the tests home and switched all their answers. No way those dummies would cost me my job.
 “Outstanding!” said Mr. Kishka when the results came in. He’d wink and give me the thumbs-up and cross himself and slowly shut the door behind him.
 Every year it was the same.
-A special production of Anne Carson’s I Don’t Do Innocents, which first appeared in issue no. 253 (Fall ...
-Svetlana Alexievich asked me as many questions as I asked her. At intervals, she would propose that we pause so she could record me; in one of our final sessions, when a photographer, Lena Kashirsky, came to take her picture, Alexievich insisted that she stay to talk. She wanted to know what books we were reading, whether a revolution could be bloodless, what music teenagers were listening to these days in Moscow, whether I thought Putin was a happy person. She also asked about love—what it is, and why we believed it appears or disappears. She stopped using a handheld recorder years ago; the app on her iPhone works fine.
