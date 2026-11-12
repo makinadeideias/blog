@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ausências e existências
-date: 2026-11-10 10:20:00
+date: 2026-11-09 10:20:00
 categories: [penso]
 ---
 _"Durar não é viver. Viver é outra coisa"_ -  Mercedes Sosa
