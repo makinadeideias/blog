@@ -1,0 +1,42 @@
+---
+layout: post
+title: Ausências e existências
+date: 2026-09-11 10:20:00
+categories: [penso]
+---
+_"Durar não é viver. Viver é outra coisa"_ -  Mercedes Sosa
+
+Os verbos _ter, ser, haver_ e _existir_ trazem algo muito complexo e que sempre me fascinou. Todos tem aspectos que me parecem ir além de seus significados. As declinações e as variações de uso desses verbos nas diversas línguas nos colocam em situações filosóficas profundas. _Ter, ser, haver, avoir, être, to be, have_. Há uma profusão de sentidos e usos que eu amo nessa mistura linguístico-ontológica.
+
+Quem _é_, _existe_? _Haver_ é _ter_? _Ter_ é _existir_? _To be_ é _to be_?  
+
+Analise-se o caso a seguir:  
+<b>_Estava ausente há dias_</b>.   
+Isso é possível?   
+
+_Estar_ me parece inadequado como verbo numa frase que descreve uma ausência. 
+Quem se ausenta, não está!   
+Ausentar é não estar, logo essa frase me soa como uma proposição antitética que descreve um gato de Schrodinger vernacular: estou-não-estou.  
+
+Claro que não é possível ignorar a função gramatical de _estar_ como verbo de ligação, com estado transitório, e não apenas localização física.   
+
+Mas vamos às diferenças entre _ser_ e _estar_ - _ser_ é _estar_? 
+_Ser_ me parece situação perene. _Sou_ assim, não _sou_ assado. 
+_Ser_ não é _estar_! _Estar_ é temporário. _Ser_, não. 
+_Ser_ é contínuo e perene. Logo, _ser_ não pode ter o mesmo sentido de _estar_. 
+
+Sei que parece confuso, mas a instabilidade linguística dessa frase parece uma brincadeira da pragmática (uso intencional) com a semântica (significado). Uma frase tem várias nuances. 
+
+<b>_Há_ uma casa no final da rua.</b>   
+_Há_, segunda conjugação  do verbo anômalo _haver_, tem o sentido de _existir_, logo, _existe_ uma casa no final da rua. 
+Não _tem_ uma casa no final da rua. Não tem, no sentido de: não _existe_. _Ter_ determina posse. 
+A posse pressupõe um sujeito detentor; a existência pressupõe apenas o fenômeno no mundo.  
+_Haver_ é existência, _ter_ é propriedade.
+_Ter_ não é _existir_. Pelo menos na gramática. 
+
+Não existe sala de _ser_, porque, pra _ser_, é preciso _estar_ na sala. Presença.  A essência precisa do plano concreto da presença para se manifestar.  
+_Existir_ não é _ser_.   
+Há pessoas que _existem_, mas não _são_.
+
+Depois de muita argumentação percebo que, embora a curiosidade continue, a língua já havia antecipado e resolvido o dilema. Bastava transformar o adjetivo em verbo e ausentar-se.
+
