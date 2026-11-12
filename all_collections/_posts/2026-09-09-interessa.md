@@ -6,7 +6,7 @@ categories: [penso]
 ---
 
 A quem interessa uma briga eterna entre irmãos numa casa compartilhada por eles com seus pais? 
-Ora o pai decide por um, ora a mãe decide por outro e a alternancia de vitorias de um sobre o outro vai construindo uma sensacao de vingança continua por meio da qual a fraternidade se esvai aos poucos.
+Ora o pai decide por um, ora a mãe decide por outro e a alternancia de vitorias de um sobre o outro vai construindo uma sensacao de vingança continua por meio da qual a fraternidade se esvai aos poucos.  
 
 Ao vencedor dá-se as alegrias pelo pleito alcançado e ao perdedor resta a dor amarga sobre a qual se constroi uma nova vinganca. 
 

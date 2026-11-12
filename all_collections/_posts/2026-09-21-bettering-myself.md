@@ -6,7 +6,8 @@ categories: [fiction, other, english]
 ---
 
 Ottessa Moshfegh
-Issue 204, Spring 2013
+Issue 204, Spring 2013. 
+
 
 My classroom was on the first floor, next to the nuns’ lounge. I used their bathroom to puke in the mornings. One nun always dusted the toilet seat with talcum powder. Another nun plugged the sink and filled it with water. I never understood the nuns. One was old and the other was young. The young one talked to me sometimes, asked me what I would do for the long weekend, if I’d see my folks over Christmas, and so forth. The old one looked the other way and twisted her robes in her fists when she saw me coming.
 My classroom was the school’s old library. It was a messy old library room, with books and magazines splayed out all over the place and a whistling radiator and big fogged-up windows overlooking Sixth Street. I put two student desks together to make up my desk at the front of the room, next to the chalkboard. I kept a down-filled sleeping bag in a cardboard box in the back of the room and covered the sleeping bag with old newspapers. Between classes I took the sleeping bag out, locked the door, and napped until the bell rang. I was usually still drunk from the night before. Sometimes I had a drink at lunch at the Indian restaurant around the corner, just to keep me going—sharp wheat ale in a squat, brown bottle. McSorley’s was there but I didn’t like all that nostalgia. That bar made me roll my eyes. I rarely made my way down to the school cafeteria, but when I did, the principal, Mr. Kishka, would stop me and smile broadly and say, “Here she comes, the vegetarian.” I don’t know why he thought I was a vegetarian. What I took from the cafeteria were prepackaged digits of cheese, chicken nuggets, and greasy dinner rolls.
