@@ -5,8 +5,7 @@ date: 2026-02-26 10:20:00
 categories: [fiction, other, english]
 ---
 
-Ottessa Moshfegh
-Issue 204, Spring 2013. 
+Ottessa Moshfegh - Issue 204, Spring 2013. 
 
 
 My classroom was on the first floor, next to the nuns’ lounge. I used their bathroom to puke in the mornings. One nun always dusted the toilet seat with talcum powder. Another nun plugged the sink and filled it with water. I never understood the nuns. One was old and the other was young. The young one talked to me sometimes, asked me what I would do for the long weekend, if I’d see my folks over Christmas, and so forth. The old one looked the other way and twisted her robes in her fists when she saw me coming.
